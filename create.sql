@@ -9,7 +9,7 @@ CREATE TABLE Shows
 );
 CREATE TABLE ShowScoreDate
 (
-	show_id   int NULL,
+	show_id   int NOT NULL,
 	last_update timestamp NULL,
 	number_of_votes  int NULL,
 	score   numeric NULL
