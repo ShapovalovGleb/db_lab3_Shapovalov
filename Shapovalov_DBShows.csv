@@ -1,0 +1,388 @@
+show_id,title,release_year,genre_id,duration,production_id
+1,David Attenborough: A Life on Our Planet,2020,1,83,1
+2,Inception,2010,2,148,1
+3,Forrest Gump,1994,3,142,2
+4,Anbe Sivam,2003,4,160,3
+5,Bo Burnham: Inside,2021,4,87,2
+6,Saving Private Ryan,1998,3,169,2
+7,Django Unchained,2012,5,165,2
+8,Dangal,2016,6,161,3
+9,Bo Burnham: Make Happy,2016,4,60,2
+10,Louis C.K.: Hilarious,2010,4,84,2
+11,Dave Chappelle: Sticks & Stones,2019,4,65,2
+12,3 Idiots,2009,4,170,3
+13,Black Friday,2004,7,143,3
+14,Super Deluxe,2019,8,176,3
+15,Winter on Fire: Ukraine's Fight for Freedom,2015,1,98,4
+16,Once Upon a Time in America,1984,3,229,2
+17,Taxi Driver,1976,7,113,2
+18,Like Stars on Earth,2007,3,165,3
+19,Bo Burnham: What.,2013,4,60,2
+20,Full Metal Jacket,1987,3,116,1
+21,Warrior,2011,3,140,2
+22,Drishyam,2015,8,163,3
+23,Queen,2014,3,146,3
+24,Paan Singh Tomar,2012,3,135,3
+25,Cowspiracy: The Sustainability Secret,2014,1,90,2
+26,Virunga,2014,9,90,5
+27,PK,2014,4,153,3
+28,Bāhubali 2: The Conclusion,2017,10,168,3
+29,Monty Python and the Holy Grail,1975,4,91,1
+30,Article 15,2019,7,130,3
+31,Miracle in Cell No. 7,2019,3,132,6
+32,13th,2016,1,100,2
+33,Andhadhun,2018,8,139,3
+34,Bill Burr: Paper Tiger,2019,4,67,1
+35,Udaan,2010,3,138,3
+36,How to Train Your Dragon,2010,10,98,2
+37,Klaus,2019,4,97,7
+38,Swades,2004,3,189,3
+39,Minnal Murali,2021,6,158,3
+40,Rang De Basanti,2006,4,157,3
+41,Seaspiracy,2021,1,80,2
+42,Rush,2013,3,123,2
+43,Hannah Gadsby: Nanette,2018,4,69,8
+44,Barfi!,2012,3,151,3
+45,Haider,2014,3,150,3
+46,Zindagi Na Milegi Dobara,2011,4,166,3
+47,A Silent Voice: The Movie,2016,11,130,9
+48,OMG: Oh My God!,2012,10,125,3
+49,Talvar,2015,8,132,3
+50,Into the Wild,2007,3,140,2
+51,Lagaan: Once Upon a Time in India,2001,3,224,3
+52,My Octopus Teacher,2020,1,84,10
+53,Dil Chahta Hai,2001,3,183,3
+54,Mersal,2017,8,169,3
+55,The Legend of Bhagat Singh,2002,3,155,3
+56,Stand by Me,1986,3,89,2
+57,The Exorcist,1973,12,133,2
+58,Bombay,1995,11,141,3
+59,Dasvi,2022,3,125,3
+60,G.O.R.A.,2004,2,127,6
+61,Blood Diamond,2006,8,143,2
+62,Vizontele,2001,4,110,6
+63,Ip Man,2008,3,108,11
+64,Her,2013,3,126,2
+65,The Bourne Ultimatum,2007,8,115,12
+66,Casino Royale,2006,8,139,1
+67,Special 26,2013,8,144,3
+68,Neon Genesis Evangelion: The End of Evangelion,1997,2,87,9
+69,Bāhubali: The Beginning,2015,3,159,3
+70,Ankhon Dekhi,2014,3,104,3
+71,Big Fish,2003,3,125,2
+72,Silenced,2011,3,125,13
+73,Life of Brian,1979,4,94,1
+74,The Invisible Guest,2017,8,107,7
+75,Dave Chappelle: The Closer,2021,4,72,2
+76,Blade Runner 2049,2017,2,164,14
+77,The Imitation Game,2014,8,113,2
+78,Jab We Met,2007,4,138,3
+79,Free to Play,2014,1,75,4
+80,Monty Python Live at the Hollywood Bowl,1982,4,77,1
+81,Dev.D,2009,3,144,3
+82,Marriage Story,2019,3,136,1
+83,Icarus,2017,1,121,2
+84,I Am Not Your Negro,2017,1,93,15
+85,Ricky Gervais: Humanity,2018,4,79,1
+86,Secret Superstar,2017,3,150,3
+87,Kal Ho Naa Ho,2003,3,186,3
+88,Pad Man,2018,4,140,3
+89,Shyam Singha Roy,2021,3,157,3
+90,How to Train Your Dragon 2,2014,10,102,2
+91,The Irishman,2019,3,209,2
+92,Gangaajal,2003,3,157,3
+93,The Girl with the Dragon Tattoo,2011,7,158,16
+94,Lakshya,2004,3,186,3
+95,The Social Network,2010,3,121,2
+96,Dunkirk,2017,3,107,2
+97,Kai Po Che!,2013,3,126,3
+98,The Gentlemen,2019,4,113,2
+99,Marco Polo: One Hundred Eyes,2015,6,28,2
+100,The Hateful Eight,2015,5,188,2
+101,Hunt for the Wilderpeople,2016,4,101,17
+102,The Last Samurai,2003,3,154,17
+103,Gattaca,1997,8,106,2
+104,The Butterfly's Dream,2013,3,138,6
+105,14 Peaks: Nothing Is Impossible,2021,1,101,2
+106,Nightcrawler,2014,7,118,2
+107,Udta Punjab,2016,7,148,3
+108,My Fair Lady,1964,3,170,2
+109,System Crasher,2019,3,118,12
+110,The Game Changers,2019,1,88,2
+111,Awakenings,1990,3,120,2
+112,Badla,2019,8,120,3
+113,Madras Cafe,2013,8,130,3
+114,Beasts of No Nation,2015,9,137,2
+115,Bonnie and Clyde,1967,3,110,2
+116,Roma,2018,3,135,18
+117,Kapoor & Sons,2016,11,132,3
+118,Mucize,2015,3,136,6
+119,Wind River,2017,8,106,19
+120,Oye Lucky! Lucky Oye!,2008,4,126,3
+121,Dirty Harry,1971,8,102,2
+122,"Jim & Andy: The Great Beyond - Featuring a Very Special, Contractually Obligated Mention of Tony Clifton",2017,4,94,2
+123,Berserk: The Golden Age Arc II - The Battle for Doldrey,2012,10,80,9
+124,Silver Linings Playbook,2012,3,122,2
+125,Sanju,2018,3,161,3
+126,Argo,2012,3,120,2
+127,Guru,2007,11,166,3
+128,Road to Perdition,2002,8,117,2
+129,The Trial of the Chicago 7,2020,3,130,2
+130,When Harry Met Sally...,1989,11,96,2
+131,Rock On!!,2008,3,144,3
+132,In the Family,2017,4,124,6
+133,Pyaar Ka Punchnama,2011,11,149,3
+134,Midnight in Paris,2011,10,94,2
+135,Donnie Brasco,1997,8,127,2
+136,The Blind Side,2009,3,129,2
+137,Sherlock Holmes,2009,7,129,1
+138,Stardust,2007,10,122,2
+139,Kuch Kuch Hota Hai,1998,3,185,3
+140,Parmanu: The Story of Pokhran,2018,3,129,3
+141,Doctor,2021,8,150,3
+142,"What Happened, Miss Simone?",2015,13,101,2
+143,Eddie Murphy Raw,1987,4,93,2
+144,Delhi Belly,2011,4,102,3
+145,The Boy Who Harnessed the Wind,2019,3,113,20
+146,Kabhi Haan Kabhi Naa,1994,4,158,3
+147,The Two Popes,2019,3,125,2
+148,The Social Dilemma,2020,3,94,2
+149,Bad Genius,2017,8,130,21
+150,The Mitchells vs. the Machines,2021,14,113,2
+151,Gifted Hands: The Ben Carson Story,2009,3,86,2
+152,Tell Me Who I Am,2019,8,85,1
+153,RBG,2018,1,98,2
+154,Highway,2014,3,133,3
+155,Athlete A,2020,1,104,2
+156,Lupin the Third: The Castle of Cagliostro,1979,4,100,9
+157,Love Actually,2003,3,139,1
+158,Hell or High Water,2016,5,102,2
+159,Wake Up Sid,2009,4,138,3
+160,Ludo,2020,7,150,3
+161,Stree,2018,12,128,3
+162,Aamir,2008,8,99,3
+163,I Am Sam,2001,3,132,2
+164,True Grit,2010,5,110,2
+165,The Distinguished Citizen,2016,4,118,22
+166,Jodhaa Akbar,2008,11,213,3
+167,The Conjuring,2013,8,107,2
+168,Dhamaka,2021,8,104,3
+169,Bareilly Ki Barfi,2017,11,123,3
+170,Les Misérables,2012,3,157,1
+171,Berserk: The Golden Age Arc I - The Egg of the King,2012,10,76,9
+172,Dil Se..,1998,3,163,3
+173,Omar,2013,8,96,23
+174,I Lost My Body,2019,10,81,19
+175,"tick, tick... BOOM!",2021,3,121,2
+176,Coming Soon,2014,3,134,6
+177,Nocturnal Animals,2016,3,115,2
+178,A Monster Calls,2016,10,108,7
+179,On Body and Soul,2017,10,116,24
+180,Ala Vaikunthapurramuloo,2020,3,165,3
+181,The Devil's Advocate,1997,12,144,12
+182,Sivaji: The Boss,2007,3,189,3
+183,Happy as Lazzaro,2018,10,125,25
+184,The Guns of Navarone,1961,9,158,2
+185,Who Am I,2014,8,105,12
+186,White Christmas,1954,11,115,2
+187,Ip Man 2,2010,3,108,26
+188,42,2013,3,128,2
+189,Menace II Society,1993,3,97,2
+190,Hum Aapke Hain Koun..!,1994,11,206,3
+191,Blow,2001,3,124,2
+192,Begin Again,2013,4,104,2
+193,Uncut Gems,2019,3,130,2
+194,Sherlock Holmes: A Game of Shadows,2011,7,129,2
+195,Rurouni Kenshin Part I: Origins,2012,3,134,9
+196,Forgotten,2017,8,109,13
+197,Tamasha,2015,3,139,3
+198,Mudbound,2017,3,120,2
+199,Lady Bird,2017,3,94,2
+200,Molly's Game,2017,3,140,14
+201,Raman Raghav 2.0,2016,8,134,3
+202,Once Upon a Time in Mumbaai,2010,8,132,3
+203,Jaane Tu... Ya Jaane Na,2008,3,155,3
+204,Peepli Live,2010,3,104,3
+205,Even the Rain,2010,3,104,7
+206,Darkest Hour,2017,3,125,1
+207,The Bucket List,2007,3,97,2
+208,American Factory,2019,1,110,2
+209,Miss Americana,2020,1,85,2
+210,The Hand of God,2021,3,130,25
+211,A Nightmare on Elm Street,1984,12,91,2
+212,83,2021,3,163,3
+213,Meenakshi Sundareshwar,2021,4,141,3
+214,Kurup,2021,7,155,3
+215,"Crazy, Stupid, Love.",2011,11,118,2
+216,Schumacher,2021,15,112,12
+217,Guzaarish,2010,3,126,3
+218,What the Health,2017,1,97,2
+219,Mirage,2018,8,129,7
+220,Bully,2011,3,92,2
+221,Phantom Thread,2017,11,130,2
+222,Looper,2012,8,119,2
+223,Felon,2008,7,103,2
+224,Life in a Metro,2007,3,124,3
+225,Kabhi Khushi Kabhie Gham,2001,3,210,3
+226,Kaminey,2009,3,135,3
+227,"Girl, Interrupted",1999,3,127,2
+228,Talaash,2012,8,149,3
+229,Starship Troopers,1997,2,129,2
+230,The Guernsey Literary & Potato Peel Pie Society,2018,11,124,1
+231,Okja,2017,3,122,13
+232,Ishqiya,2010,4,115,3
+233,The Edge of Seventeen,2016,4,104,2
+234,Pyaar Ka Punchnama 2,2015,4,159,3
+235,The Nightingale,2018,8,136,8
+236,Corpse Bride,2005,10,77,2
+237,Memoirs of a Geisha,2005,3,145,19
+238,El Camino: A Breaking Bad Movie,2019,8,123,2
+239,Official Secrets,2019,8,112,1
+240,Coach Carter,2005,3,130,2
+241,The King,2019,3,140,8
+242,Identity,2003,8,90,2
+243,The Best of Enemies,2019,3,133,2
+244,The Professionals,1966,5,117,2
+245,Raat Akeli Hai,2020,8,149,3
+246,Little Women,1994,3,115,2
+247,Badhaai Do,2022,4,147,3
+248,The Conjuring 2,2016,8,134,2
+249,The Fundamentals of Caring,2016,3,97,2
+250,The Ballad of Buster Scruggs,2018,5,132,2
+251,Shot Caller,2017,8,120,2
+252,The Disaster Artist,2017,4,104,2
+253,Blue Jay,2016,11,81,2
+254,Te3n,2016,8,136,3
+255,Monster,2003,7,110,2
+256,No One Killed Jessica,2011,7,136,3
+257,Toilet: A Love Story,2017,4,155,3
+258,Wish Dragon,2021,10,99,26
+259,Mom,2017,7,147,3
+260,The Professor and the Madman,2019,8,124,2
+261,Kabir Singh,2019,3,172,3
+262,Dolemite Is My Name,2019,4,118,2
+263,In the Line of Fire,1993,3,128,2
+264,The Witcher: Nightmare of the Wolf,2021,10,83,27
+265,Ittefaq,2017,8,107,3
+266,The Tinder Swindler,2022,7,114,1
+267,First They Killed My Father,2017,3,136,28
+268,Don't Look Up,2021,2,138,2
+269,Wazir,2016,8,103,3
+270,Gabbar Is Back,2015,3,130,3
+271,Fyre,2019,1,98,2
+272,Steve Jobs,2015,3,122,1
+273,Shooter,2007,8,124,2
+274,The Butler,2013,3,132,2
+275,The Siege of Jadotville,2016,8,108,29
+276,Closer,2004,3,94,1
+277,Private Life,2018,3,123,2
+278,American Murder: The Family Next Door,2020,7,83,2
+279,St. Vincent,2014,4,102,2
+280,A River Runs Through It,1992,3,123,2
+281,The Patriot,2000,3,165,12
+282,Five Feet Apart,2019,11,116,2
+283,Michael Clayton,2007,8,120,2
+284,The Edge of Democracy,2019,1,121,30
+285,Paddington,2014,4,96,19
+286,Wedding Association,2013,4,106,31
+287,Let Me In,2010,12,116,1
+288,Raajneeti,2010,3,167,3
+289,Body of Lies,2008,3,128,1
+290,The Forgotten Battle,2020,3,124,32
+291,Knock Down the House,2019,1,86,2
+292,The Call,2020,8,112,13
+293,Forgetting Sarah Marshall,2008,4,111,2
+294,The Railway Man,2013,3,116,1
+295,The Great Hack,2019,1,114,2
+296,Paddleton,2019,3,89,2
+297,Desperado,1995,8,104,2
+298,Gantz:O,2016,14,95,9
+299,The Ring,2002,12,111,9
+300,Margin Call,2011,8,107,2
+301,Copenhagen,2014,3,98,2
+302,Black Mirror: Bandersnatch,2018,2,90,1
+303,Metallica: Through the Never,2013,13,93,2
+304,Seven Years in Tibet,1997,3,136,2
+305,Girl,2018,3,105,33
+306,Kung Fu Panda 3,2016,4,95,2
+307,To All the Boys I've Loved Before,2018,11,100,2
+308,Arthur Christmas,2011,3,97,1
+309,Trailer Park Boys: The Movie,2006,4,95,14
+310,Karthik Calling Karthik,2010,8,135,3
+311,The White Tiger,2021,3,125,3
+312,Shootout at Lokhandwala,2007,7,145,3
+313,The Devil All the Time,2020,3,138,2
+314,Tangerine,2015,4,87,2
+315,The Danish Girl,2015,3,119,12
+316,The Unforgivable,2021,3,112,12
+317,Phir Hera Pheri,2006,4,155,3
+318,War Dogs,2016,7,114,2
+319,The Dig,2021,3,112,1
+320,Blade,1998,6,120,2
+321,Luck by Chance,2009,11,155,3
+322,Namastey London,2007,4,131,3
+323,Don,2006,8,178,3
+324,Don 2,2011,6,139,12
+325,Main Hoon Na,2004,3,179,3
+326,Gangubai Kathiawadi,2022,3,157,3
+327,Croupier,1998,8,94,19
+328,Pieces of a Woman,2020,3,127,24
+329,Raw,2016,12,98,15
+330,Loving,2016,3,123,1
+331,Harold & Kumar Go to White Castle,2004,4,88,2
+332,Haseen Dillruba,2021,3,135,3
+333,Rose Island,2020,3,117,25
+334,Ferry,2021,3,106,33
+335,Handsome Devil,2017,3,95,29
+336,Torbaaz,2020,3,132,3
+337,Ip Man 3,2015,3,105,11
+338,The Foreigner,2017,8,113,3
+339,Mirai,2018,10,98,9
+340,Gaga: Five Foot Two,2017,13,100,2
+341,The Christmas Chronicles,2018,10,104,2
+342,Sarkar,2018,3,164,3
+343,Rambo,2008,8,92,2
+344,Dil Dhadakne Do,2015,3,170,3
+345,Soul Surfer,2011,3,112,2
+346,Happy Gilmore,1996,4,92,2
+347,Den of Thieves,2018,8,140,2
+348,The Zookeeper's Wife,2017,3,122,1
+349,The Platform,2019,12,94,7
+350,Public Enemies,2009,7,143,2
+351,Ip Man 4: The Finale,2019,3,107,26
+352,John Q,2002,3,116,2
+353,Fashion,2008,11,167,3
+354,Ma Rainey's Black Bottom,2020,13,94,2
+355,Any Given Sunday,1999,3,162,2
+356,The Long Riders,1980,5,99,2
+357,Get on Up,2014,3,139,2
+358,Fukrey,2013,11,137,3
+359,Chup Chup Ke,2006,4,165,3
+360,Then Came You,2019,4,93,2
+361,The Wolf's Call,2019,8,115,19
+362,Cloudy with a Chance of Meatballs,2009,14,90,2
+363,Our Souls at Night,2017,3,101,2
+364,Chandigarh Kare Aashiqui,2021,7,117,3
+365,Welcome,2007,11,160,3
+366,Everybody Knows,2018,3,132,25
+367,The Meyerowitz Stories (New and Selected),2017,3,112,2
+368,I Don't Feel at Home in This World Anymore,2017,3,93,2
+369,The Highwaymen,2019,8,132,2
+370,Legend,2015,8,132,2
+371,AK vs AK,2020,3,108,3
+372,My Girl,1991,4,103,2
+373,Amanda Knox,2016,7,92,34
+374,2 States,2014,4,149,3
+375,The Power of the Dog,2021,3,126,14
+376,The Half of It,2020,4,104,2
+377,Outlaw King,2018,3,121,1
+378,Mary Kom,2014,3,122,3
+379,Suffragette,2015,3,106,19
+380,Legend of the Guardians: The Owls of Ga'Hoole,2010,10,100,2
+381,Christine,2016,3,115,2
+382,The Night Comes for Us,2018,8,121,35
+383,The Trip,2021,4,113,16
+384,The Dirt,2019,3,108,2
+385,Top Gun,1986,3,110,2
+386,Radhe Shyam,2022,11,138,3
+387,Sorry to Bother You,2018,10,111,2
