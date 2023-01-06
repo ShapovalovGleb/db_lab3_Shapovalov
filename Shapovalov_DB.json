@@ -1,0 +1,5628 @@
+{
+    "Shows": [
+        {
+            "show_id": 1,
+            "title": "David Attenborough: A Life on Our Planet",
+            "release_year": 2020,
+            "genre_id": 1,
+            "duration": 83,
+            "production_id": 1
+        },
+        {
+            "show_id": 2,
+            "title": "Inception",
+            "release_year": 2010,
+            "genre_id": 2,
+            "duration": 148,
+            "production_id": 1
+        },
+        {
+            "show_id": 3,
+            "title": "Forrest Gump",
+            "release_year": 1994,
+            "genre_id": 3,
+            "duration": 142,
+            "production_id": 2
+        },
+        {
+            "show_id": 4,
+            "title": "Anbe Sivam",
+            "release_year": 2003,
+            "genre_id": 4,
+            "duration": 160,
+            "production_id": 3
+        },
+        {
+            "show_id": 5,
+            "title": "Bo Burnham: Inside",
+            "release_year": 2021,
+            "genre_id": 4,
+            "duration": 87,
+            "production_id": 2
+        },
+        {
+            "show_id": 6,
+            "title": "Saving Private Ryan",
+            "release_year": 1998,
+            "genre_id": 3,
+            "duration": 169,
+            "production_id": 2
+        },
+        {
+            "show_id": 7,
+            "title": "Django Unchained",
+            "release_year": 2012,
+            "genre_id": 5,
+            "duration": 165,
+            "production_id": 2
+        },
+        {
+            "show_id": 8,
+            "title": "Dangal",
+            "release_year": 2016,
+            "genre_id": 6,
+            "duration": 161,
+            "production_id": 3
+        },
+        {
+            "show_id": 9,
+            "title": "Bo Burnham: Make Happy",
+            "release_year": 2016,
+            "genre_id": 4,
+            "duration": 60,
+            "production_id": 2
+        },
+        {
+            "show_id": 10,
+            "title": "Louis C.K.: Hilarious",
+            "release_year": 2010,
+            "genre_id": 4,
+            "duration": 84,
+            "production_id": 2
+        },
+        {
+            "show_id": 11,
+            "title": "Dave Chappelle: Sticks & Stones",
+            "release_year": 2019,
+            "genre_id": 4,
+            "duration": 65,
+            "production_id": 2
+        },
+        {
+            "show_id": 12,
+            "title": "3 Idiots",
+            "release_year": 2009,
+            "genre_id": 4,
+            "duration": 170,
+            "production_id": 3
+        },
+        {
+            "show_id": 13,
+            "title": "Black Friday",
+            "release_year": 2004,
+            "genre_id": 7,
+            "duration": 143,
+            "production_id": 3
+        },
+        {
+            "show_id": 14,
+            "title": "Super Deluxe",
+            "release_year": 2019,
+            "genre_id": 8,
+            "duration": 176,
+            "production_id": 3
+        },
+        {
+            "show_id": 15,
+            "title": "Winter on Fire: Ukraine's Fight for Freedom",
+            "release_year": 2015,
+            "genre_id": 1,
+            "duration": 98,
+            "production_id": 4
+        },
+        {
+            "show_id": 16,
+            "title": "Once Upon a Time in America",
+            "release_year": 1984,
+            "genre_id": 3,
+            "duration": 229,
+            "production_id": 2
+        },
+        {
+            "show_id": 17,
+            "title": "Taxi Driver",
+            "release_year": 1976,
+            "genre_id": 7,
+            "duration": 113,
+            "production_id": 2
+        },
+        {
+            "show_id": 18,
+            "title": "Like Stars on Earth",
+            "release_year": 2007,
+            "genre_id": 3,
+            "duration": 165,
+            "production_id": 3
+        },
+        {
+            "show_id": 19,
+            "title": "Bo Burnham: What.",
+            "release_year": 2013,
+            "genre_id": 4,
+            "duration": 60,
+            "production_id": 2
+        },
+        {
+            "show_id": 20,
+            "title": "Full Metal Jacket",
+            "release_year": 1987,
+            "genre_id": 3,
+            "duration": 116,
+            "production_id": 1
+        },
+        {
+            "show_id": 21,
+            "title": "Warrior",
+            "release_year": 2011,
+            "genre_id": 3,
+            "duration": 140,
+            "production_id": 2
+        },
+        {
+            "show_id": 22,
+            "title": "Drishyam",
+            "release_year": 2015,
+            "genre_id": 8,
+            "duration": 163,
+            "production_id": 3
+        },
+        {
+            "show_id": 23,
+            "title": "Queen",
+            "release_year": 2014,
+            "genre_id": 3,
+            "duration": 146,
+            "production_id": 3
+        },
+        {
+            "show_id": 24,
+            "title": "Paan Singh Tomar",
+            "release_year": 2012,
+            "genre_id": 3,
+            "duration": 135,
+            "production_id": 3
+        },
+        {
+            "show_id": 25,
+            "title": "Cowspiracy: The Sustainability Secret",
+            "release_year": 2014,
+            "genre_id": 1,
+            "duration": 90,
+            "production_id": 2
+        },
+        {
+            "show_id": 26,
+            "title": "Virunga",
+            "release_year": 2014,
+            "genre_id": 9,
+            "duration": 90,
+            "production_id": 5
+        },
+        {
+            "show_id": 27,
+            "title": "PK",
+            "release_year": 2014,
+            "genre_id": 4,
+            "duration": 153,
+            "production_id": 3
+        },
+        {
+            "show_id": 28,
+            "title": "B\u0414\u0403hubali 2: The Conclusion",
+            "release_year": 2017,
+            "genre_id": 10,
+            "duration": 168,
+            "production_id": 3
+        },
+        {
+            "show_id": 29,
+            "title": "Monty Python and the Holy Grail",
+            "release_year": 1975,
+            "genre_id": 4,
+            "duration": 91,
+            "production_id": 1
+        },
+        {
+            "show_id": 30,
+            "title": "Article 15",
+            "release_year": 2019,
+            "genre_id": 7,
+            "duration": 130,
+            "production_id": 3
+        },
+        {
+            "show_id": 31,
+            "title": "Miracle in Cell No. 7",
+            "release_year": 2019,
+            "genre_id": 3,
+            "duration": 132,
+            "production_id": 6
+        },
+        {
+            "show_id": 32,
+            "title": "13th",
+            "release_year": 2016,
+            "genre_id": 1,
+            "duration": 100,
+            "production_id": 2
+        },
+        {
+            "show_id": 33,
+            "title": "Andhadhun",
+            "release_year": 2018,
+            "genre_id": 8,
+            "duration": 139,
+            "production_id": 3
+        },
+        {
+            "show_id": 34,
+            "title": "Bill Burr: Paper Tiger",
+            "release_year": 2019,
+            "genre_id": 4,
+            "duration": 67,
+            "production_id": 1
+        },
+        {
+            "show_id": 35,
+            "title": "Udaan",
+            "release_year": 2010,
+            "genre_id": 3,
+            "duration": 138,
+            "production_id": 3
+        },
+        {
+            "show_id": 36,
+            "title": "How to Train Your Dragon",
+            "release_year": 2010,
+            "genre_id": 10,
+            "duration": 98,
+            "production_id": 2
+        },
+        {
+            "show_id": 37,
+            "title": "Klaus",
+            "release_year": 2019,
+            "genre_id": 4,
+            "duration": 97,
+            "production_id": 7
+        },
+        {
+            "show_id": 38,
+            "title": "Swades",
+            "release_year": 2004,
+            "genre_id": 3,
+            "duration": 189,
+            "production_id": 3
+        },
+        {
+            "show_id": 39,
+            "title": "Minnal Murali",
+            "release_year": 2021,
+            "genre_id": 6,
+            "duration": 158,
+            "production_id": 3
+        },
+        {
+            "show_id": 40,
+            "title": "Rang De Basanti",
+            "release_year": 2006,
+            "genre_id": 4,
+            "duration": 157,
+            "production_id": 3
+        },
+        {
+            "show_id": 41,
+            "title": "Seaspiracy",
+            "release_year": 2021,
+            "genre_id": 1,
+            "duration": 80,
+            "production_id": 2
+        },
+        {
+            "show_id": 42,
+            "title": "Rush",
+            "release_year": 2013,
+            "genre_id": 3,
+            "duration": 123,
+            "production_id": 2
+        },
+        {
+            "show_id": 43,
+            "title": "Hannah Gadsby: Nanette",
+            "release_year": 2018,
+            "genre_id": 4,
+            "duration": 69,
+            "production_id": 8
+        },
+        {
+            "show_id": 44,
+            "title": "Barfi!",
+            "release_year": 2012,
+            "genre_id": 3,
+            "duration": 151,
+            "production_id": 3
+        },
+        {
+            "show_id": 45,
+            "title": "Haider",
+            "release_year": 2014,
+            "genre_id": 3,
+            "duration": 150,
+            "production_id": 3
+        },
+        {
+            "show_id": 46,
+            "title": "Zindagi Na Milegi Dobara",
+            "release_year": 2011,
+            "genre_id": 4,
+            "duration": 166,
+            "production_id": 3
+        },
+        {
+            "show_id": 47,
+            "title": "A Silent Voice: The Movie",
+            "release_year": 2016,
+            "genre_id": 11,
+            "duration": 130,
+            "production_id": 9
+        },
+        {
+            "show_id": 48,
+            "title": "OMG: Oh My God!",
+            "release_year": 2012,
+            "genre_id": 10,
+            "duration": 125,
+            "production_id": 3
+        },
+        {
+            "show_id": 49,
+            "title": "Talvar",
+            "release_year": 2015,
+            "genre_id": 8,
+            "duration": 132,
+            "production_id": 3
+        },
+        {
+            "show_id": 50,
+            "title": "Into the Wild",
+            "release_year": 2007,
+            "genre_id": 3,
+            "duration": 140,
+            "production_id": 2
+        },
+        {
+            "show_id": 51,
+            "title": "Lagaan: Once Upon a Time in India",
+            "release_year": 2001,
+            "genre_id": 3,
+            "duration": 224,
+            "production_id": 3
+        },
+        {
+            "show_id": 52,
+            "title": "My Octopus Teacher",
+            "release_year": 2020,
+            "genre_id": 1,
+            "duration": 84,
+            "production_id": 10
+        },
+        {
+            "show_id": 53,
+            "title": "Dil Chahta Hai",
+            "release_year": 2001,
+            "genre_id": 3,
+            "duration": 183,
+            "production_id": 3
+        },
+        {
+            "show_id": 54,
+            "title": "Mersal",
+            "release_year": 2017,
+            "genre_id": 8,
+            "duration": 169,
+            "production_id": 3
+        },
+        {
+            "show_id": 55,
+            "title": "The Legend of Bhagat Singh",
+            "release_year": 2002,
+            "genre_id": 3,
+            "duration": 155,
+            "production_id": 3
+        },
+        {
+            "show_id": 56,
+            "title": "Stand by Me",
+            "release_year": 1986,
+            "genre_id": 3,
+            "duration": 89,
+            "production_id": 2
+        },
+        {
+            "show_id": 57,
+            "title": "The Exorcist",
+            "release_year": 1973,
+            "genre_id": 12,
+            "duration": 133,
+            "production_id": 2
+        },
+        {
+            "show_id": 58,
+            "title": "Bombay",
+            "release_year": 1995,
+            "genre_id": 11,
+            "duration": 141,
+            "production_id": 3
+        },
+        {
+            "show_id": 59,
+            "title": "Dasvi",
+            "release_year": 2022,
+            "genre_id": 3,
+            "duration": 125,
+            "production_id": 3
+        },
+        {
+            "show_id": 60,
+            "title": "G.O.R.A.",
+            "release_year": 2004,
+            "genre_id": 2,
+            "duration": 127,
+            "production_id": 6
+        },
+        {
+            "show_id": 61,
+            "title": "Blood Diamond",
+            "release_year": 2006,
+            "genre_id": 8,
+            "duration": 143,
+            "production_id": 2
+        },
+        {
+            "show_id": 62,
+            "title": "Vizontele",
+            "release_year": 2001,
+            "genre_id": 4,
+            "duration": 110,
+            "production_id": 6
+        },
+        {
+            "show_id": 63,
+            "title": "Ip Man",
+            "release_year": 2008,
+            "genre_id": 3,
+            "duration": 108,
+            "production_id": 11
+        },
+        {
+            "show_id": 64,
+            "title": "Her",
+            "release_year": 2013,
+            "genre_id": 3,
+            "duration": 126,
+            "production_id": 2
+        },
+        {
+            "show_id": 65,
+            "title": "The Bourne Ultimatum",
+            "release_year": 2007,
+            "genre_id": 8,
+            "duration": 115,
+            "production_id": 12
+        },
+        {
+            "show_id": 66,
+            "title": "Casino Royale",
+            "release_year": 2006,
+            "genre_id": 8,
+            "duration": 139,
+            "production_id": 1
+        },
+        {
+            "show_id": 67,
+            "title": "Special 26",
+            "release_year": 2013,
+            "genre_id": 8,
+            "duration": 144,
+            "production_id": 3
+        },
+        {
+            "show_id": 68,
+            "title": "Neon Genesis Evangelion: The End of Evangelion",
+            "release_year": 1997,
+            "genre_id": 2,
+            "duration": 87,
+            "production_id": 9
+        },
+        {
+            "show_id": 69,
+            "title": "B\u0414\u0403hubali: The Beginning",
+            "release_year": 2015,
+            "genre_id": 3,
+            "duration": 159,
+            "production_id": 3
+        },
+        {
+            "show_id": 70,
+            "title": "Ankhon Dekhi",
+            "release_year": 2014,
+            "genre_id": 3,
+            "duration": 104,
+            "production_id": 3
+        },
+        {
+            "show_id": 71,
+            "title": "Big Fish",
+            "release_year": 2003,
+            "genre_id": 3,
+            "duration": 125,
+            "production_id": 2
+        },
+        {
+            "show_id": 72,
+            "title": "Silenced",
+            "release_year": 2011,
+            "genre_id": 3,
+            "duration": 125,
+            "production_id": 13
+        },
+        {
+            "show_id": 73,
+            "title": "Life of Brian",
+            "release_year": 1979,
+            "genre_id": 4,
+            "duration": 94,
+            "production_id": 1
+        },
+        {
+            "show_id": 74,
+            "title": "The Invisible Guest",
+            "release_year": 2017,
+            "genre_id": 8,
+            "duration": 107,
+            "production_id": 7
+        },
+        {
+            "show_id": 75,
+            "title": "Dave Chappelle: The Closer",
+            "release_year": 2021,
+            "genre_id": 4,
+            "duration": 72,
+            "production_id": 2
+        },
+        {
+            "show_id": 76,
+            "title": "Blade Runner 2049",
+            "release_year": 2017,
+            "genre_id": 2,
+            "duration": 164,
+            "production_id": 14
+        },
+        {
+            "show_id": 77,
+            "title": "The Imitation Game",
+            "release_year": 2014,
+            "genre_id": 8,
+            "duration": 113,
+            "production_id": 2
+        },
+        {
+            "show_id": 78,
+            "title": "Jab We Met",
+            "release_year": 2007,
+            "genre_id": 4,
+            "duration": 138,
+            "production_id": 3
+        },
+        {
+            "show_id": 79,
+            "title": "Free to Play",
+            "release_year": 2014,
+            "genre_id": 1,
+            "duration": 75,
+            "production_id": 4
+        },
+        {
+            "show_id": 80,
+            "title": "Monty Python Live at the Hollywood Bowl",
+            "release_year": 1982,
+            "genre_id": 4,
+            "duration": 77,
+            "production_id": 1
+        },
+        {
+            "show_id": 81,
+            "title": "Dev.D",
+            "release_year": 2009,
+            "genre_id": 3,
+            "duration": 144,
+            "production_id": 3
+        },
+        {
+            "show_id": 82,
+            "title": "Marriage Story",
+            "release_year": 2019,
+            "genre_id": 3,
+            "duration": 136,
+            "production_id": 1
+        },
+        {
+            "show_id": 83,
+            "title": "Icarus",
+            "release_year": 2017,
+            "genre_id": 1,
+            "duration": 121,
+            "production_id": 2
+        },
+        {
+            "show_id": 84,
+            "title": "I Am Not Your Negro",
+            "release_year": 2017,
+            "genre_id": 1,
+            "duration": 93,
+            "production_id": 15
+        },
+        {
+            "show_id": 85,
+            "title": "Ricky Gervais: Humanity",
+            "release_year": 2018,
+            "genre_id": 4,
+            "duration": 79,
+            "production_id": 1
+        },
+        {
+            "show_id": 86,
+            "title": "Secret Superstar",
+            "release_year": 2017,
+            "genre_id": 3,
+            "duration": 150,
+            "production_id": 3
+        },
+        {
+            "show_id": 87,
+            "title": "Kal Ho Naa Ho",
+            "release_year": 2003,
+            "genre_id": 3,
+            "duration": 186,
+            "production_id": 3
+        },
+        {
+            "show_id": 88,
+            "title": "Pad Man",
+            "release_year": 2018,
+            "genre_id": 4,
+            "duration": 140,
+            "production_id": 3
+        },
+        {
+            "show_id": 89,
+            "title": "Shyam Singha Roy",
+            "release_year": 2021,
+            "genre_id": 3,
+            "duration": 157,
+            "production_id": 3
+        },
+        {
+            "show_id": 90,
+            "title": "How to Train Your Dragon 2",
+            "release_year": 2014,
+            "genre_id": 10,
+            "duration": 102,
+            "production_id": 2
+        },
+        {
+            "show_id": 91,
+            "title": "The Irishman",
+            "release_year": 2019,
+            "genre_id": 3,
+            "duration": 209,
+            "production_id": 2
+        },
+        {
+            "show_id": 92,
+            "title": "Gangaajal",
+            "release_year": 2003,
+            "genre_id": 3,
+            "duration": 157,
+            "production_id": 3
+        },
+        {
+            "show_id": 93,
+            "title": "The Girl with the Dragon Tattoo",
+            "release_year": 2011,
+            "genre_id": 7,
+            "duration": 158,
+            "production_id": 16
+        },
+        {
+            "show_id": 94,
+            "title": "Lakshya",
+            "release_year": 2004,
+            "genre_id": 3,
+            "duration": 186,
+            "production_id": 3
+        },
+        {
+            "show_id": 95,
+            "title": "The Social Network",
+            "release_year": 2010,
+            "genre_id": 3,
+            "duration": 121,
+            "production_id": 2
+        },
+        {
+            "show_id": 96,
+            "title": "Dunkirk",
+            "release_year": 2017,
+            "genre_id": 3,
+            "duration": 107,
+            "production_id": 2
+        },
+        {
+            "show_id": 97,
+            "title": "Kai Po Che!",
+            "release_year": 2013,
+            "genre_id": 3,
+            "duration": 126,
+            "production_id": 3
+        },
+        {
+            "show_id": 98,
+            "title": "The Gentlemen",
+            "release_year": 2019,
+            "genre_id": 4,
+            "duration": 113,
+            "production_id": 2
+        },
+        {
+            "show_id": 99,
+            "title": "Marco Polo: One Hundred Eyes",
+            "release_year": 2015,
+            "genre_id": 6,
+            "duration": 28,
+            "production_id": 2
+        },
+        {
+            "show_id": 100,
+            "title": "The Hateful Eight",
+            "release_year": 2015,
+            "genre_id": 5,
+            "duration": 188,
+            "production_id": 2
+        },
+        {
+            "show_id": 101,
+            "title": "Hunt for the Wilderpeople",
+            "release_year": 2016,
+            "genre_id": 4,
+            "duration": 101,
+            "production_id": 17
+        },
+        {
+            "show_id": 102,
+            "title": "The Last Samurai",
+            "release_year": 2003,
+            "genre_id": 3,
+            "duration": 154,
+            "production_id": 17
+        },
+        {
+            "show_id": 103,
+            "title": "Gattaca",
+            "release_year": 1997,
+            "genre_id": 8,
+            "duration": 106,
+            "production_id": 2
+        },
+        {
+            "show_id": 104,
+            "title": "The Butterfly's Dream",
+            "release_year": 2013,
+            "genre_id": 3,
+            "duration": 138,
+            "production_id": 6
+        },
+        {
+            "show_id": 105,
+            "title": "14 Peaks: Nothing Is Impossible",
+            "release_year": 2021,
+            "genre_id": 1,
+            "duration": 101,
+            "production_id": 2
+        },
+        {
+            "show_id": 106,
+            "title": "Nightcrawler",
+            "release_year": 2014,
+            "genre_id": 7,
+            "duration": 118,
+            "production_id": 2
+        },
+        {
+            "show_id": 107,
+            "title": "Udta Punjab",
+            "release_year": 2016,
+            "genre_id": 7,
+            "duration": 148,
+            "production_id": 3
+        },
+        {
+            "show_id": 108,
+            "title": "My Fair Lady",
+            "release_year": 1964,
+            "genre_id": 3,
+            "duration": 170,
+            "production_id": 2
+        },
+        {
+            "show_id": 109,
+            "title": "System Crasher",
+            "release_year": 2019,
+            "genre_id": 3,
+            "duration": 118,
+            "production_id": 12
+        },
+        {
+            "show_id": 110,
+            "title": "The Game Changers",
+            "release_year": 2019,
+            "genre_id": 1,
+            "duration": 88,
+            "production_id": 2
+        },
+        {
+            "show_id": 111,
+            "title": "Awakenings",
+            "release_year": 1990,
+            "genre_id": 3,
+            "duration": 120,
+            "production_id": 2
+        },
+        {
+            "show_id": 112,
+            "title": "Badla",
+            "release_year": 2019,
+            "genre_id": 8,
+            "duration": 120,
+            "production_id": 3
+        },
+        {
+            "show_id": 113,
+            "title": "Madras Cafe",
+            "release_year": 2013,
+            "genre_id": 8,
+            "duration": 130,
+            "production_id": 3
+        },
+        {
+            "show_id": 114,
+            "title": "Beasts of No Nation",
+            "release_year": 2015,
+            "genre_id": 9,
+            "duration": 137,
+            "production_id": 2
+        },
+        {
+            "show_id": 115,
+            "title": "Bonnie and Clyde",
+            "release_year": 1967,
+            "genre_id": 3,
+            "duration": 110,
+            "production_id": 2
+        },
+        {
+            "show_id": 116,
+            "title": "Roma",
+            "release_year": 2018,
+            "genre_id": 3,
+            "duration": 135,
+            "production_id": 18
+        },
+        {
+            "show_id": 117,
+            "title": "Kapoor & Sons",
+            "release_year": 2016,
+            "genre_id": 11,
+            "duration": 132,
+            "production_id": 3
+        },
+        {
+            "show_id": 118,
+            "title": "Mucize",
+            "release_year": 2015,
+            "genre_id": 3,
+            "duration": 136,
+            "production_id": 6
+        },
+        {
+            "show_id": 119,
+            "title": "Wind River",
+            "release_year": 2017,
+            "genre_id": 8,
+            "duration": 106,
+            "production_id": 19
+        },
+        {
+            "show_id": 120,
+            "title": "Oye Lucky! Lucky Oye!",
+            "release_year": 2008,
+            "genre_id": 4,
+            "duration": 126,
+            "production_id": 3
+        },
+        {
+            "show_id": 121,
+            "title": "Dirty Harry",
+            "release_year": 1971,
+            "genre_id": 8,
+            "duration": 102,
+            "production_id": 2
+        },
+        {
+            "show_id": 122,
+            "title": "Jim & Andy: The Great Beyond - Featuring a Very Special, Contractually Obligated Mention of Tony Clifton",
+            "release_year": 2017,
+            "genre_id": 4,
+            "duration": 94,
+            "production_id": 2
+        },
+        {
+            "show_id": 123,
+            "title": "Berserk: The Golden Age Arc II - The Battle for Doldrey",
+            "release_year": 2012,
+            "genre_id": 10,
+            "duration": 80,
+            "production_id": 9
+        },
+        {
+            "show_id": 124,
+            "title": "Silver Linings Playbook",
+            "release_year": 2012,
+            "genre_id": 3,
+            "duration": 122,
+            "production_id": 2
+        },
+        {
+            "show_id": 125,
+            "title": "Sanju",
+            "release_year": 2018,
+            "genre_id": 3,
+            "duration": 161,
+            "production_id": 3
+        },
+        {
+            "show_id": 126,
+            "title": "Argo",
+            "release_year": 2012,
+            "genre_id": 3,
+            "duration": 120,
+            "production_id": 2
+        },
+        {
+            "show_id": 127,
+            "title": "Guru",
+            "release_year": 2007,
+            "genre_id": 11,
+            "duration": 166,
+            "production_id": 3
+        },
+        {
+            "show_id": 128,
+            "title": "Road to Perdition",
+            "release_year": 2002,
+            "genre_id": 8,
+            "duration": 117,
+            "production_id": 2
+        },
+        {
+            "show_id": 129,
+            "title": "The Trial of the Chicago 7",
+            "release_year": 2020,
+            "genre_id": 3,
+            "duration": 130,
+            "production_id": 2
+        },
+        {
+            "show_id": 130,
+            "title": "When Harry Met Sally...",
+            "release_year": 1989,
+            "genre_id": 11,
+            "duration": 96,
+            "production_id": 2
+        },
+        {
+            "show_id": 131,
+            "title": "Rock On!!",
+            "release_year": 2008,
+            "genre_id": 3,
+            "duration": 144,
+            "production_id": 3
+        },
+        {
+            "show_id": 132,
+            "title": "In the Family",
+            "release_year": 2017,
+            "genre_id": 4,
+            "duration": 124,
+            "production_id": 6
+        },
+        {
+            "show_id": 133,
+            "title": "Pyaar Ka Punchnama",
+            "release_year": 2011,
+            "genre_id": 11,
+            "duration": 149,
+            "production_id": 3
+        },
+        {
+            "show_id": 134,
+            "title": "Midnight in Paris",
+            "release_year": 2011,
+            "genre_id": 10,
+            "duration": 94,
+            "production_id": 2
+        },
+        {
+            "show_id": 135,
+            "title": "Donnie Brasco",
+            "release_year": 1997,
+            "genre_id": 8,
+            "duration": 127,
+            "production_id": 2
+        },
+        {
+            "show_id": 136,
+            "title": "The Blind Side",
+            "release_year": 2009,
+            "genre_id": 3,
+            "duration": 129,
+            "production_id": 2
+        },
+        {
+            "show_id": 137,
+            "title": "Sherlock Holmes",
+            "release_year": 2009,
+            "genre_id": 7,
+            "duration": 129,
+            "production_id": 1
+        },
+        {
+            "show_id": 138,
+            "title": "Stardust",
+            "release_year": 2007,
+            "genre_id": 10,
+            "duration": 122,
+            "production_id": 2
+        },
+        {
+            "show_id": 139,
+            "title": "Kuch Kuch Hota Hai",
+            "release_year": 1998,
+            "genre_id": 3,
+            "duration": 185,
+            "production_id": 3
+        },
+        {
+            "show_id": 140,
+            "title": "Parmanu: The Story of Pokhran",
+            "release_year": 2018,
+            "genre_id": 3,
+            "duration": 129,
+            "production_id": 3
+        },
+        {
+            "show_id": 141,
+            "title": "Doctor",
+            "release_year": 2021,
+            "genre_id": 8,
+            "duration": 150,
+            "production_id": 3
+        },
+        {
+            "show_id": 142,
+            "title": "What Happened, Miss Simone?",
+            "release_year": 2015,
+            "genre_id": 13,
+            "duration": 101,
+            "production_id": 2
+        },
+        {
+            "show_id": 143,
+            "title": "Eddie Murphy Raw",
+            "release_year": 1987,
+            "genre_id": 4,
+            "duration": 93,
+            "production_id": 2
+        },
+        {
+            "show_id": 144,
+            "title": "Delhi Belly",
+            "release_year": 2011,
+            "genre_id": 4,
+            "duration": 102,
+            "production_id": 3
+        },
+        {
+            "show_id": 145,
+            "title": "The Boy Who Harnessed the Wind",
+            "release_year": 2019,
+            "genre_id": 3,
+            "duration": 113,
+            "production_id": 20
+        },
+        {
+            "show_id": 146,
+            "title": "Kabhi Haan Kabhi Naa",
+            "release_year": 1994,
+            "genre_id": 4,
+            "duration": 158,
+            "production_id": 3
+        },
+        {
+            "show_id": 147,
+            "title": "The Two Popes",
+            "release_year": 2019,
+            "genre_id": 3,
+            "duration": 125,
+            "production_id": 2
+        },
+        {
+            "show_id": 148,
+            "title": "The Social Dilemma",
+            "release_year": 2020,
+            "genre_id": 3,
+            "duration": 94,
+            "production_id": 2
+        },
+        {
+            "show_id": 149,
+            "title": "Bad Genius",
+            "release_year": 2017,
+            "genre_id": 8,
+            "duration": 130,
+            "production_id": 21
+        },
+        {
+            "show_id": 150,
+            "title": "The Mitchells vs. the Machines",
+            "release_year": 2021,
+            "genre_id": 14,
+            "duration": 113,
+            "production_id": 2
+        },
+        {
+            "show_id": 151,
+            "title": "Gifted Hands: The Ben Carson Story",
+            "release_year": 2009,
+            "genre_id": 3,
+            "duration": 86,
+            "production_id": 2
+        },
+        {
+            "show_id": 152,
+            "title": "Tell Me Who I Am",
+            "release_year": 2019,
+            "genre_id": 8,
+            "duration": 85,
+            "production_id": 1
+        },
+        {
+            "show_id": 153,
+            "title": "RBG",
+            "release_year": 2018,
+            "genre_id": 1,
+            "duration": 98,
+            "production_id": 2
+        },
+        {
+            "show_id": 154,
+            "title": "Highway",
+            "release_year": 2014,
+            "genre_id": 3,
+            "duration": 133,
+            "production_id": 3
+        },
+        {
+            "show_id": 155,
+            "title": "Athlete A",
+            "release_year": 2020,
+            "genre_id": 1,
+            "duration": 104,
+            "production_id": 2
+        },
+        {
+            "show_id": 156,
+            "title": "Lupin the Third: The Castle of Cagliostro",
+            "release_year": 1979,
+            "genre_id": 4,
+            "duration": 100,
+            "production_id": 9
+        },
+        {
+            "show_id": 157,
+            "title": "Love Actually",
+            "release_year": 2003,
+            "genre_id": 3,
+            "duration": 139,
+            "production_id": 1
+        },
+        {
+            "show_id": 158,
+            "title": "Hell or High Water",
+            "release_year": 2016,
+            "genre_id": 5,
+            "duration": 102,
+            "production_id": 2
+        },
+        {
+            "show_id": 159,
+            "title": "Wake Up Sid",
+            "release_year": 2009,
+            "genre_id": 4,
+            "duration": 138,
+            "production_id": 3
+        },
+        {
+            "show_id": 160,
+            "title": "Ludo",
+            "release_year": 2020,
+            "genre_id": 7,
+            "duration": 150,
+            "production_id": 3
+        },
+        {
+            "show_id": 161,
+            "title": "Stree",
+            "release_year": 2018,
+            "genre_id": 12,
+            "duration": 128,
+            "production_id": 3
+        },
+        {
+            "show_id": 162,
+            "title": "Aamir",
+            "release_year": 2008,
+            "genre_id": 8,
+            "duration": 99,
+            "production_id": 3
+        },
+        {
+            "show_id": 163,
+            "title": "I Am Sam",
+            "release_year": 2001,
+            "genre_id": 3,
+            "duration": 132,
+            "production_id": 2
+        },
+        {
+            "show_id": 164,
+            "title": "True Grit",
+            "release_year": 2010,
+            "genre_id": 5,
+            "duration": 110,
+            "production_id": 2
+        },
+        {
+            "show_id": 165,
+            "title": "The Distinguished Citizen",
+            "release_year": 2016,
+            "genre_id": 4,
+            "duration": 118,
+            "production_id": 22
+        },
+        {
+            "show_id": 166,
+            "title": "Jodhaa Akbar",
+            "release_year": 2008,
+            "genre_id": 11,
+            "duration": 213,
+            "production_id": 3
+        },
+        {
+            "show_id": 167,
+            "title": "The Conjuring",
+            "release_year": 2013,
+            "genre_id": 8,
+            "duration": 107,
+            "production_id": 2
+        },
+        {
+            "show_id": 168,
+            "title": "Dhamaka",
+            "release_year": 2021,
+            "genre_id": 8,
+            "duration": 104,
+            "production_id": 3
+        },
+        {
+            "show_id": 169,
+            "title": "Bareilly Ki Barfi",
+            "release_year": 2017,
+            "genre_id": 11,
+            "duration": 123,
+            "production_id": 3
+        },
+        {
+            "show_id": 170,
+            "title": "Les Mis\u0413\u00a9rables",
+            "release_year": 2012,
+            "genre_id": 3,
+            "duration": 157,
+            "production_id": 1
+        },
+        {
+            "show_id": 171,
+            "title": "Berserk: The Golden Age Arc I - The Egg of the King",
+            "release_year": 2012,
+            "genre_id": 10,
+            "duration": 76,
+            "production_id": 9
+        },
+        {
+            "show_id": 172,
+            "title": "Dil Se..",
+            "release_year": 1998,
+            "genre_id": 3,
+            "duration": 163,
+            "production_id": 3
+        },
+        {
+            "show_id": 173,
+            "title": "Omar",
+            "release_year": 2013,
+            "genre_id": 8,
+            "duration": 96,
+            "production_id": 23
+        },
+        {
+            "show_id": 174,
+            "title": "I Lost My Body",
+            "release_year": 2019,
+            "genre_id": 10,
+            "duration": 81,
+            "production_id": 19
+        },
+        {
+            "show_id": 175,
+            "title": "tick, tick... BOOM!",
+            "release_year": 2021,
+            "genre_id": 3,
+            "duration": 121,
+            "production_id": 2
+        },
+        {
+            "show_id": 176,
+            "title": "Coming Soon",
+            "release_year": 2014,
+            "genre_id": 3,
+            "duration": 134,
+            "production_id": 6
+        },
+        {
+            "show_id": 177,
+            "title": "Nocturnal Animals",
+            "release_year": 2016,
+            "genre_id": 3,
+            "duration": 115,
+            "production_id": 2
+        },
+        {
+            "show_id": 178,
+            "title": "A Monster Calls",
+            "release_year": 2016,
+            "genre_id": 10,
+            "duration": 108,
+            "production_id": 7
+        },
+        {
+            "show_id": 179,
+            "title": "On Body and Soul",
+            "release_year": 2017,
+            "genre_id": 10,
+            "duration": 116,
+            "production_id": 24
+        },
+        {
+            "show_id": 180,
+            "title": "Ala Vaikunthapurramuloo",
+            "release_year": 2020,
+            "genre_id": 3,
+            "duration": 165,
+            "production_id": 3
+        },
+        {
+            "show_id": 181,
+            "title": "The Devil's Advocate",
+            "release_year": 1997,
+            "genre_id": 12,
+            "duration": 144,
+            "production_id": 12
+        },
+        {
+            "show_id": 182,
+            "title": "Sivaji: The Boss",
+            "release_year": 2007,
+            "genre_id": 3,
+            "duration": 189,
+            "production_id": 3
+        },
+        {
+            "show_id": 183,
+            "title": "Happy as Lazzaro",
+            "release_year": 2018,
+            "genre_id": 10,
+            "duration": 125,
+            "production_id": 25
+        },
+        {
+            "show_id": 184,
+            "title": "The Guns of Navarone",
+            "release_year": 1961,
+            "genre_id": 9,
+            "duration": 158,
+            "production_id": 2
+        },
+        {
+            "show_id": 185,
+            "title": "Who Am I",
+            "release_year": 2014,
+            "genre_id": 8,
+            "duration": 105,
+            "production_id": 12
+        },
+        {
+            "show_id": 186,
+            "title": "White Christmas",
+            "release_year": 1954,
+            "genre_id": 11,
+            "duration": 115,
+            "production_id": 2
+        },
+        {
+            "show_id": 187,
+            "title": "Ip Man 2",
+            "release_year": 2010,
+            "genre_id": 3,
+            "duration": 108,
+            "production_id": 26
+        },
+        {
+            "show_id": 188,
+            "title": "42",
+            "release_year": 2013,
+            "genre_id": 3,
+            "duration": 128,
+            "production_id": 2
+        },
+        {
+            "show_id": 189,
+            "title": "Menace II Society",
+            "release_year": 1993,
+            "genre_id": 3,
+            "duration": 97,
+            "production_id": 2
+        },
+        {
+            "show_id": 190,
+            "title": "Hum Aapke Hain Koun..!",
+            "release_year": 1994,
+            "genre_id": 11,
+            "duration": 206,
+            "production_id": 3
+        },
+        {
+            "show_id": 191,
+            "title": "Blow",
+            "release_year": 2001,
+            "genre_id": 3,
+            "duration": 124,
+            "production_id": 2
+        },
+        {
+            "show_id": 192,
+            "title": "Begin Again",
+            "release_year": 2013,
+            "genre_id": 4,
+            "duration": 104,
+            "production_id": 2
+        },
+        {
+            "show_id": 193,
+            "title": "Uncut Gems",
+            "release_year": 2019,
+            "genre_id": 3,
+            "duration": 130,
+            "production_id": 2
+        },
+        {
+            "show_id": 194,
+            "title": "Sherlock Holmes: A Game of Shadows",
+            "release_year": 2011,
+            "genre_id": 7,
+            "duration": 129,
+            "production_id": 2
+        },
+        {
+            "show_id": 195,
+            "title": "Rurouni Kenshin Part I: Origins",
+            "release_year": 2012,
+            "genre_id": 3,
+            "duration": 134,
+            "production_id": 9
+        },
+        {
+            "show_id": 196,
+            "title": "Forgotten",
+            "release_year": 2017,
+            "genre_id": 8,
+            "duration": 109,
+            "production_id": 13
+        },
+        {
+            "show_id": 197,
+            "title": "Tamasha",
+            "release_year": 2015,
+            "genre_id": 3,
+            "duration": 139,
+            "production_id": 3
+        },
+        {
+            "show_id": 198,
+            "title": "Mudbound",
+            "release_year": 2017,
+            "genre_id": 3,
+            "duration": 120,
+            "production_id": 2
+        },
+        {
+            "show_id": 199,
+            "title": "Lady Bird",
+            "release_year": 2017,
+            "genre_id": 3,
+            "duration": 94,
+            "production_id": 2
+        },
+        {
+            "show_id": 200,
+            "title": "Molly's Game",
+            "release_year": 2017,
+            "genre_id": 3,
+            "duration": 140,
+            "production_id": 14
+        },
+        {
+            "show_id": 201,
+            "title": "Raman Raghav 2.0",
+            "release_year": 2016,
+            "genre_id": 8,
+            "duration": 134,
+            "production_id": 3
+        },
+        {
+            "show_id": 202,
+            "title": "Once Upon a Time in Mumbaai",
+            "release_year": 2010,
+            "genre_id": 8,
+            "duration": 132,
+            "production_id": 3
+        },
+        {
+            "show_id": 203,
+            "title": "Jaane Tu... Ya Jaane Na",
+            "release_year": 2008,
+            "genre_id": 3,
+            "duration": 155,
+            "production_id": 3
+        },
+        {
+            "show_id": 204,
+            "title": "Peepli Live",
+            "release_year": 2010,
+            "genre_id": 3,
+            "duration": 104,
+            "production_id": 3
+        },
+        {
+            "show_id": 205,
+            "title": "Even the Rain",
+            "release_year": 2010,
+            "genre_id": 3,
+            "duration": 104,
+            "production_id": 7
+        },
+        {
+            "show_id": 206,
+            "title": "Darkest Hour",
+            "release_year": 2017,
+            "genre_id": 3,
+            "duration": 125,
+            "production_id": 1
+        },
+        {
+            "show_id": 207,
+            "title": "The Bucket List",
+            "release_year": 2007,
+            "genre_id": 3,
+            "duration": 97,
+            "production_id": 2
+        },
+        {
+            "show_id": 208,
+            "title": "American Factory",
+            "release_year": 2019,
+            "genre_id": 1,
+            "duration": 110,
+            "production_id": 2
+        },
+        {
+            "show_id": 209,
+            "title": "Miss Americana",
+            "release_year": 2020,
+            "genre_id": 1,
+            "duration": 85,
+            "production_id": 2
+        },
+        {
+            "show_id": 210,
+            "title": "The Hand of God",
+            "release_year": 2021,
+            "genre_id": 3,
+            "duration": 130,
+            "production_id": 25
+        },
+        {
+            "show_id": 211,
+            "title": "A Nightmare on Elm Street",
+            "release_year": 1984,
+            "genre_id": 12,
+            "duration": 91,
+            "production_id": 2
+        },
+        {
+            "show_id": 212,
+            "title": "83",
+            "release_year": 2021,
+            "genre_id": 3,
+            "duration": 163,
+            "production_id": 3
+        },
+        {
+            "show_id": 213,
+            "title": "Meenakshi Sundareshwar",
+            "release_year": 2021,
+            "genre_id": 4,
+            "duration": 141,
+            "production_id": 3
+        },
+        {
+            "show_id": 214,
+            "title": "Kurup",
+            "release_year": 2021,
+            "genre_id": 7,
+            "duration": 155,
+            "production_id": 3
+        },
+        {
+            "show_id": 215,
+            "title": "Crazy, Stupid, Love.",
+            "release_year": 2011,
+            "genre_id": 11,
+            "duration": 118,
+            "production_id": 2
+        },
+        {
+            "show_id": 216,
+            "title": "Schumacher",
+            "release_year": 2021,
+            "genre_id": 15,
+            "duration": 112,
+            "production_id": 12
+        },
+        {
+            "show_id": 217,
+            "title": "Guzaarish",
+            "release_year": 2010,
+            "genre_id": 3,
+            "duration": 126,
+            "production_id": 3
+        },
+        {
+            "show_id": 218,
+            "title": "What the Health",
+            "release_year": 2017,
+            "genre_id": 1,
+            "duration": 97,
+            "production_id": 2
+        },
+        {
+            "show_id": 219,
+            "title": "Mirage",
+            "release_year": 2018,
+            "genre_id": 8,
+            "duration": 129,
+            "production_id": 7
+        },
+        {
+            "show_id": 220,
+            "title": "Bully",
+            "release_year": 2011,
+            "genre_id": 3,
+            "duration": 92,
+            "production_id": 2
+        },
+        {
+            "show_id": 221,
+            "title": "Phantom Thread",
+            "release_year": 2017,
+            "genre_id": 11,
+            "duration": 130,
+            "production_id": 2
+        },
+        {
+            "show_id": 222,
+            "title": "Looper",
+            "release_year": 2012,
+            "genre_id": 8,
+            "duration": 119,
+            "production_id": 2
+        },
+        {
+            "show_id": 223,
+            "title": "Felon",
+            "release_year": 2008,
+            "genre_id": 7,
+            "duration": 103,
+            "production_id": 2
+        },
+        {
+            "show_id": 224,
+            "title": "Life in a Metro",
+            "release_year": 2007,
+            "genre_id": 3,
+            "duration": 124,
+            "production_id": 3
+        },
+        {
+            "show_id": 225,
+            "title": "Kabhi Khushi Kabhie Gham",
+            "release_year": 2001,
+            "genre_id": 3,
+            "duration": 210,
+            "production_id": 3
+        },
+        {
+            "show_id": 226,
+            "title": "Kaminey",
+            "release_year": 2009,
+            "genre_id": 3,
+            "duration": 135,
+            "production_id": 3
+        },
+        {
+            "show_id": 227,
+            "title": "Girl, Interrupted",
+            "release_year": 1999,
+            "genre_id": 3,
+            "duration": 127,
+            "production_id": 2
+        },
+        {
+            "show_id": 228,
+            "title": "Talaash",
+            "release_year": 2012,
+            "genre_id": 8,
+            "duration": 149,
+            "production_id": 3
+        },
+        {
+            "show_id": 229,
+            "title": "Starship Troopers",
+            "release_year": 1997,
+            "genre_id": 2,
+            "duration": 129,
+            "production_id": 2
+        },
+        {
+            "show_id": 230,
+            "title": "The Guernsey Literary & Potato Peel Pie Society",
+            "release_year": 2018,
+            "genre_id": 11,
+            "duration": 124,
+            "production_id": 1
+        },
+        {
+            "show_id": 231,
+            "title": "Okja",
+            "release_year": 2017,
+            "genre_id": 3,
+            "duration": 122,
+            "production_id": 13
+        },
+        {
+            "show_id": 232,
+            "title": "Ishqiya",
+            "release_year": 2010,
+            "genre_id": 4,
+            "duration": 115,
+            "production_id": 3
+        },
+        {
+            "show_id": 233,
+            "title": "The Edge of Seventeen",
+            "release_year": 2016,
+            "genre_id": 4,
+            "duration": 104,
+            "production_id": 2
+        },
+        {
+            "show_id": 234,
+            "title": "Pyaar Ka Punchnama 2",
+            "release_year": 2015,
+            "genre_id": 4,
+            "duration": 159,
+            "production_id": 3
+        },
+        {
+            "show_id": 235,
+            "title": "The Nightingale",
+            "release_year": 2018,
+            "genre_id": 8,
+            "duration": 136,
+            "production_id": 8
+        },
+        {
+            "show_id": 236,
+            "title": "Corpse Bride",
+            "release_year": 2005,
+            "genre_id": 10,
+            "duration": 77,
+            "production_id": 2
+        },
+        {
+            "show_id": 237,
+            "title": "Memoirs of a Geisha",
+            "release_year": 2005,
+            "genre_id": 3,
+            "duration": 145,
+            "production_id": 19
+        },
+        {
+            "show_id": 238,
+            "title": "El Camino: A Breaking Bad Movie",
+            "release_year": 2019,
+            "genre_id": 8,
+            "duration": 123,
+            "production_id": 2
+        },
+        {
+            "show_id": 239,
+            "title": "Official Secrets",
+            "release_year": 2019,
+            "genre_id": 8,
+            "duration": 112,
+            "production_id": 1
+        },
+        {
+            "show_id": 240,
+            "title": "Coach Carter",
+            "release_year": 2005,
+            "genre_id": 3,
+            "duration": 130,
+            "production_id": 2
+        },
+        {
+            "show_id": 241,
+            "title": "The King",
+            "release_year": 2019,
+            "genre_id": 3,
+            "duration": 140,
+            "production_id": 8
+        },
+        {
+            "show_id": 242,
+            "title": "Identity",
+            "release_year": 2003,
+            "genre_id": 8,
+            "duration": 90,
+            "production_id": 2
+        },
+        {
+            "show_id": 243,
+            "title": "The Best of Enemies",
+            "release_year": 2019,
+            "genre_id": 3,
+            "duration": 133,
+            "production_id": 2
+        },
+        {
+            "show_id": 244,
+            "title": "The Professionals",
+            "release_year": 1966,
+            "genre_id": 5,
+            "duration": 117,
+            "production_id": 2
+        },
+        {
+            "show_id": 245,
+            "title": "Raat Akeli Hai",
+            "release_year": 2020,
+            "genre_id": 8,
+            "duration": 149,
+            "production_id": 3
+        },
+        {
+            "show_id": 246,
+            "title": "Little Women",
+            "release_year": 1994,
+            "genre_id": 3,
+            "duration": 115,
+            "production_id": 2
+        },
+        {
+            "show_id": 247,
+            "title": "Badhaai Do",
+            "release_year": 2022,
+            "genre_id": 4,
+            "duration": 147,
+            "production_id": 3
+        },
+        {
+            "show_id": 248,
+            "title": "The Conjuring 2",
+            "release_year": 2016,
+            "genre_id": 8,
+            "duration": 134,
+            "production_id": 2
+        },
+        {
+            "show_id": 249,
+            "title": "The Fundamentals of Caring",
+            "release_year": 2016,
+            "genre_id": 3,
+            "duration": 97,
+            "production_id": 2
+        },
+        {
+            "show_id": 250,
+            "title": "The Ballad of Buster Scruggs",
+            "release_year": 2018,
+            "genre_id": 5,
+            "duration": 132,
+            "production_id": 2
+        },
+        {
+            "show_id": 251,
+            "title": "Shot Caller",
+            "release_year": 2017,
+            "genre_id": 8,
+            "duration": 120,
+            "production_id": 2
+        },
+        {
+            "show_id": 252,
+            "title": "The Disaster Artist",
+            "release_year": 2017,
+            "genre_id": 4,
+            "duration": 104,
+            "production_id": 2
+        },
+        {
+            "show_id": 253,
+            "title": "Blue Jay",
+            "release_year": 2016,
+            "genre_id": 11,
+            "duration": 81,
+            "production_id": 2
+        },
+        {
+            "show_id": 254,
+            "title": "Te3n",
+            "release_year": 2016,
+            "genre_id": 8,
+            "duration": 136,
+            "production_id": 3
+        },
+        {
+            "show_id": 255,
+            "title": "Monster",
+            "release_year": 2003,
+            "genre_id": 7,
+            "duration": 110,
+            "production_id": 2
+        },
+        {
+            "show_id": 256,
+            "title": "No One Killed Jessica",
+            "release_year": 2011,
+            "genre_id": 7,
+            "duration": 136,
+            "production_id": 3
+        },
+        {
+            "show_id": 257,
+            "title": "Toilet: A Love Story",
+            "release_year": 2017,
+            "genre_id": 4,
+            "duration": 155,
+            "production_id": 3
+        },
+        {
+            "show_id": 258,
+            "title": "Wish Dragon",
+            "release_year": 2021,
+            "genre_id": 10,
+            "duration": 99,
+            "production_id": 26
+        },
+        {
+            "show_id": 259,
+            "title": "Mom",
+            "release_year": 2017,
+            "genre_id": 7,
+            "duration": 147,
+            "production_id": 3
+        },
+        {
+            "show_id": 260,
+            "title": "The Professor and the Madman",
+            "release_year": 2019,
+            "genre_id": 8,
+            "duration": 124,
+            "production_id": 2
+        },
+        {
+            "show_id": 261,
+            "title": "Kabir Singh",
+            "release_year": 2019,
+            "genre_id": 3,
+            "duration": 172,
+            "production_id": 3
+        },
+        {
+            "show_id": 262,
+            "title": "Dolemite Is My Name",
+            "release_year": 2019,
+            "genre_id": 4,
+            "duration": 118,
+            "production_id": 2
+        },
+        {
+            "show_id": 263,
+            "title": "In the Line of Fire",
+            "release_year": 1993,
+            "genre_id": 3,
+            "duration": 128,
+            "production_id": 2
+        },
+        {
+            "show_id": 264,
+            "title": "The Witcher: Nightmare of the Wolf",
+            "release_year": 2021,
+            "genre_id": 10,
+            "duration": 83,
+            "production_id": 27
+        },
+        {
+            "show_id": 265,
+            "title": "Ittefaq",
+            "release_year": 2017,
+            "genre_id": 8,
+            "duration": 107,
+            "production_id": 3
+        },
+        {
+            "show_id": 266,
+            "title": "The Tinder Swindler",
+            "release_year": 2022,
+            "genre_id": 7,
+            "duration": 114,
+            "production_id": 1
+        },
+        {
+            "show_id": 267,
+            "title": "First They Killed My Father",
+            "release_year": 2017,
+            "genre_id": 3,
+            "duration": 136,
+            "production_id": 28
+        },
+        {
+            "show_id": 268,
+            "title": "Don't Look Up",
+            "release_year": 2021,
+            "genre_id": 2,
+            "duration": 138,
+            "production_id": 2
+        },
+        {
+            "show_id": 269,
+            "title": "Wazir",
+            "release_year": 2016,
+            "genre_id": 8,
+            "duration": 103,
+            "production_id": 3
+        },
+        {
+            "show_id": 270,
+            "title": "Gabbar Is Back",
+            "release_year": 2015,
+            "genre_id": 3,
+            "duration": 130,
+            "production_id": 3
+        },
+        {
+            "show_id": 271,
+            "title": "Fyre",
+            "release_year": 2019,
+            "genre_id": 1,
+            "duration": 98,
+            "production_id": 2
+        },
+        {
+            "show_id": 272,
+            "title": "Steve Jobs",
+            "release_year": 2015,
+            "genre_id": 3,
+            "duration": 122,
+            "production_id": 1
+        },
+        {
+            "show_id": 273,
+            "title": "Shooter",
+            "release_year": 2007,
+            "genre_id": 8,
+            "duration": 124,
+            "production_id": 2
+        },
+        {
+            "show_id": 274,
+            "title": "The Butler",
+            "release_year": 2013,
+            "genre_id": 3,
+            "duration": 132,
+            "production_id": 2
+        },
+        {
+            "show_id": 275,
+            "title": "The Siege of Jadotville",
+            "release_year": 2016,
+            "genre_id": 8,
+            "duration": 108,
+            "production_id": 29
+        },
+        {
+            "show_id": 276,
+            "title": "Closer",
+            "release_year": 2004,
+            "genre_id": 3,
+            "duration": 94,
+            "production_id": 1
+        },
+        {
+            "show_id": 277,
+            "title": "Private Life",
+            "release_year": 2018,
+            "genre_id": 3,
+            "duration": 123,
+            "production_id": 2
+        },
+        {
+            "show_id": 278,
+            "title": "American Murder: The Family Next Door",
+            "release_year": 2020,
+            "genre_id": 7,
+            "duration": 83,
+            "production_id": 2
+        },
+        {
+            "show_id": 279,
+            "title": "St. Vincent",
+            "release_year": 2014,
+            "genre_id": 4,
+            "duration": 102,
+            "production_id": 2
+        },
+        {
+            "show_id": 280,
+            "title": "A River Runs Through It",
+            "release_year": 1992,
+            "genre_id": 3,
+            "duration": 123,
+            "production_id": 2
+        },
+        {
+            "show_id": 281,
+            "title": "The Patriot",
+            "release_year": 2000,
+            "genre_id": 3,
+            "duration": 165,
+            "production_id": 12
+        },
+        {
+            "show_id": 282,
+            "title": "Five Feet Apart",
+            "release_year": 2019,
+            "genre_id": 11,
+            "duration": 116,
+            "production_id": 2
+        },
+        {
+            "show_id": 283,
+            "title": "Michael Clayton",
+            "release_year": 2007,
+            "genre_id": 8,
+            "duration": 120,
+            "production_id": 2
+        },
+        {
+            "show_id": 284,
+            "title": "The Edge of Democracy",
+            "release_year": 2019,
+            "genre_id": 1,
+            "duration": 121,
+            "production_id": 30
+        },
+        {
+            "show_id": 285,
+            "title": "Paddington",
+            "release_year": 2014,
+            "genre_id": 4,
+            "duration": 96,
+            "production_id": 19
+        },
+        {
+            "show_id": 286,
+            "title": "Wedding Association",
+            "release_year": 2013,
+            "genre_id": 4,
+            "duration": 106,
+            "production_id": 31
+        },
+        {
+            "show_id": 287,
+            "title": "Let Me In",
+            "release_year": 2010,
+            "genre_id": 12,
+            "duration": 116,
+            "production_id": 1
+        },
+        {
+            "show_id": 288,
+            "title": "Raajneeti",
+            "release_year": 2010,
+            "genre_id": 3,
+            "duration": 167,
+            "production_id": 3
+        },
+        {
+            "show_id": 289,
+            "title": "Body of Lies",
+            "release_year": 2008,
+            "genre_id": 3,
+            "duration": 128,
+            "production_id": 1
+        },
+        {
+            "show_id": 290,
+            "title": "The Forgotten Battle",
+            "release_year": 2020,
+            "genre_id": 3,
+            "duration": 124,
+            "production_id": 32
+        },
+        {
+            "show_id": 291,
+            "title": "Knock Down the House",
+            "release_year": 2019,
+            "genre_id": 1,
+            "duration": 86,
+            "production_id": 2
+        },
+        {
+            "show_id": 292,
+            "title": "The Call",
+            "release_year": 2020,
+            "genre_id": 8,
+            "duration": 112,
+            "production_id": 13
+        },
+        {
+            "show_id": 293,
+            "title": "Forgetting Sarah Marshall",
+            "release_year": 2008,
+            "genre_id": 4,
+            "duration": 111,
+            "production_id": 2
+        },
+        {
+            "show_id": 294,
+            "title": "The Railway Man",
+            "release_year": 2013,
+            "genre_id": 3,
+            "duration": 116,
+            "production_id": 1
+        },
+        {
+            "show_id": 295,
+            "title": "The Great Hack",
+            "release_year": 2019,
+            "genre_id": 1,
+            "duration": 114,
+            "production_id": 2
+        },
+        {
+            "show_id": 296,
+            "title": "Paddleton",
+            "release_year": 2019,
+            "genre_id": 3,
+            "duration": 89,
+            "production_id": 2
+        },
+        {
+            "show_id": 297,
+            "title": "Desperado",
+            "release_year": 1995,
+            "genre_id": 8,
+            "duration": 104,
+            "production_id": 2
+        },
+        {
+            "show_id": 298,
+            "title": "Gantz:O",
+            "release_year": 2016,
+            "genre_id": 14,
+            "duration": 95,
+            "production_id": 9
+        },
+        {
+            "show_id": 299,
+            "title": "The Ring",
+            "release_year": 2002,
+            "genre_id": 12,
+            "duration": 111,
+            "production_id": 9
+        },
+        {
+            "show_id": 300,
+            "title": "Margin Call",
+            "release_year": 2011,
+            "genre_id": 8,
+            "duration": 107,
+            "production_id": 2
+        },
+        {
+            "show_id": 301,
+            "title": "Copenhagen",
+            "release_year": 2014,
+            "genre_id": 3,
+            "duration": 98,
+            "production_id": 2
+        },
+        {
+            "show_id": 302,
+            "title": "Black Mirror: Bandersnatch",
+            "release_year": 2018,
+            "genre_id": 2,
+            "duration": 90,
+            "production_id": 1
+        },
+        {
+            "show_id": 303,
+            "title": "Metallica: Through the Never",
+            "release_year": 2013,
+            "genre_id": 13,
+            "duration": 93,
+            "production_id": 2
+        },
+        {
+            "show_id": 304,
+            "title": "Seven Years in Tibet",
+            "release_year": 1997,
+            "genre_id": 3,
+            "duration": 136,
+            "production_id": 2
+        },
+        {
+            "show_id": 305,
+            "title": "Girl",
+            "release_year": 2018,
+            "genre_id": 3,
+            "duration": 105,
+            "production_id": 33
+        },
+        {
+            "show_id": 306,
+            "title": "Kung Fu Panda 3",
+            "release_year": 2016,
+            "genre_id": 4,
+            "duration": 95,
+            "production_id": 2
+        },
+        {
+            "show_id": 307,
+            "title": "To All the Boys I've Loved Before",
+            "release_year": 2018,
+            "genre_id": 11,
+            "duration": 100,
+            "production_id": 2
+        },
+        {
+            "show_id": 308,
+            "title": "Arthur Christmas",
+            "release_year": 2011,
+            "genre_id": 3,
+            "duration": 97,
+            "production_id": 1
+        },
+        {
+            "show_id": 309,
+            "title": "Trailer Park Boys: The Movie",
+            "release_year": 2006,
+            "genre_id": 4,
+            "duration": 95,
+            "production_id": 14
+        },
+        {
+            "show_id": 310,
+            "title": "Karthik Calling Karthik",
+            "release_year": 2010,
+            "genre_id": 8,
+            "duration": 135,
+            "production_id": 3
+        },
+        {
+            "show_id": 311,
+            "title": "The White Tiger",
+            "release_year": 2021,
+            "genre_id": 3,
+            "duration": 125,
+            "production_id": 3
+        },
+        {
+            "show_id": 312,
+            "title": "Shootout at Lokhandwala",
+            "release_year": 2007,
+            "genre_id": 7,
+            "duration": 145,
+            "production_id": 3
+        },
+        {
+            "show_id": 313,
+            "title": "The Devil All the Time",
+            "release_year": 2020,
+            "genre_id": 3,
+            "duration": 138,
+            "production_id": 2
+        },
+        {
+            "show_id": 314,
+            "title": "Tangerine",
+            "release_year": 2015,
+            "genre_id": 4,
+            "duration": 87,
+            "production_id": 2
+        },
+        {
+            "show_id": 315,
+            "title": "The Danish Girl",
+            "release_year": 2015,
+            "genre_id": 3,
+            "duration": 119,
+            "production_id": 12
+        },
+        {
+            "show_id": 316,
+            "title": "The Unforgivable",
+            "release_year": 2021,
+            "genre_id": 3,
+            "duration": 112,
+            "production_id": 12
+        },
+        {
+            "show_id": 317,
+            "title": "Phir Hera Pheri",
+            "release_year": 2006,
+            "genre_id": 4,
+            "duration": 155,
+            "production_id": 3
+        },
+        {
+            "show_id": 318,
+            "title": "War Dogs",
+            "release_year": 2016,
+            "genre_id": 7,
+            "duration": 114,
+            "production_id": 2
+        },
+        {
+            "show_id": 319,
+            "title": "The Dig",
+            "release_year": 2021,
+            "genre_id": 3,
+            "duration": 112,
+            "production_id": 1
+        },
+        {
+            "show_id": 320,
+            "title": "Blade",
+            "release_year": 1998,
+            "genre_id": 6,
+            "duration": 120,
+            "production_id": 2
+        },
+        {
+            "show_id": 321,
+            "title": "Luck by Chance",
+            "release_year": 2009,
+            "genre_id": 11,
+            "duration": 155,
+            "production_id": 3
+        },
+        {
+            "show_id": 322,
+            "title": "Namastey London",
+            "release_year": 2007,
+            "genre_id": 4,
+            "duration": 131,
+            "production_id": 3
+        },
+        {
+            "show_id": 323,
+            "title": "Don",
+            "release_year": 2006,
+            "genre_id": 8,
+            "duration": 178,
+            "production_id": 3
+        },
+        {
+            "show_id": 324,
+            "title": "Don 2",
+            "release_year": 2011,
+            "genre_id": 6,
+            "duration": 139,
+            "production_id": 12
+        },
+        {
+            "show_id": 325,
+            "title": "Main Hoon Na",
+            "release_year": 2004,
+            "genre_id": 3,
+            "duration": 179,
+            "production_id": 3
+        },
+        {
+            "show_id": 326,
+            "title": "Gangubai Kathiawadi",
+            "release_year": 2022,
+            "genre_id": 3,
+            "duration": 157,
+            "production_id": 3
+        },
+        {
+            "show_id": 327,
+            "title": "Croupier",
+            "release_year": 1998,
+            "genre_id": 8,
+            "duration": 94,
+            "production_id": 19
+        },
+        {
+            "show_id": 328,
+            "title": "Pieces of a Woman",
+            "release_year": 2020,
+            "genre_id": 3,
+            "duration": 127,
+            "production_id": 24
+        },
+        {
+            "show_id": 329,
+            "title": "Raw",
+            "release_year": 2016,
+            "genre_id": 12,
+            "duration": 98,
+            "production_id": 15
+        },
+        {
+            "show_id": 330,
+            "title": "Loving",
+            "release_year": 2016,
+            "genre_id": 3,
+            "duration": 123,
+            "production_id": 1
+        },
+        {
+            "show_id": 331,
+            "title": "Harold & Kumar Go to White Castle",
+            "release_year": 2004,
+            "genre_id": 4,
+            "duration": 88,
+            "production_id": 2
+        },
+        {
+            "show_id": 332,
+            "title": "Haseen Dillruba",
+            "release_year": 2021,
+            "genre_id": 3,
+            "duration": 135,
+            "production_id": 3
+        },
+        {
+            "show_id": 333,
+            "title": "Rose Island",
+            "release_year": 2020,
+            "genre_id": 3,
+            "duration": 117,
+            "production_id": 25
+        },
+        {
+            "show_id": 334,
+            "title": "Ferry",
+            "release_year": 2021,
+            "genre_id": 3,
+            "duration": 106,
+            "production_id": 33
+        },
+        {
+            "show_id": 335,
+            "title": "Handsome Devil",
+            "release_year": 2017,
+            "genre_id": 3,
+            "duration": 95,
+            "production_id": 29
+        },
+        {
+            "show_id": 336,
+            "title": "Torbaaz",
+            "release_year": 2020,
+            "genre_id": 3,
+            "duration": 132,
+            "production_id": 3
+        },
+        {
+            "show_id": 337,
+            "title": "Ip Man 3",
+            "release_year": 2015,
+            "genre_id": 3,
+            "duration": 105,
+            "production_id": 11
+        },
+        {
+            "show_id": 338,
+            "title": "The Foreigner",
+            "release_year": 2017,
+            "genre_id": 8,
+            "duration": 113,
+            "production_id": 3
+        },
+        {
+            "show_id": 339,
+            "title": "Mirai",
+            "release_year": 2018,
+            "genre_id": 10,
+            "duration": 98,
+            "production_id": 9
+        },
+        {
+            "show_id": 340,
+            "title": "Gaga: Five Foot Two",
+            "release_year": 2017,
+            "genre_id": 13,
+            "duration": 100,
+            "production_id": 2
+        },
+        {
+            "show_id": 341,
+            "title": "The Christmas Chronicles",
+            "release_year": 2018,
+            "genre_id": 10,
+            "duration": 104,
+            "production_id": 2
+        },
+        {
+            "show_id": 342,
+            "title": "Sarkar",
+            "release_year": 2018,
+            "genre_id": 3,
+            "duration": 164,
+            "production_id": 3
+        },
+        {
+            "show_id": 343,
+            "title": "Rambo",
+            "release_year": 2008,
+            "genre_id": 8,
+            "duration": 92,
+            "production_id": 2
+        },
+        {
+            "show_id": 344,
+            "title": "Dil Dhadakne Do",
+            "release_year": 2015,
+            "genre_id": 3,
+            "duration": 170,
+            "production_id": 3
+        },
+        {
+            "show_id": 345,
+            "title": "Soul Surfer",
+            "release_year": 2011,
+            "genre_id": 3,
+            "duration": 112,
+            "production_id": 2
+        },
+        {
+            "show_id": 346,
+            "title": "Happy Gilmore",
+            "release_year": 1996,
+            "genre_id": 4,
+            "duration": 92,
+            "production_id": 2
+        },
+        {
+            "show_id": 347,
+            "title": "Den of Thieves",
+            "release_year": 2018,
+            "genre_id": 8,
+            "duration": 140,
+            "production_id": 2
+        },
+        {
+            "show_id": 348,
+            "title": "The Zookeeper's Wife",
+            "release_year": 2017,
+            "genre_id": 3,
+            "duration": 122,
+            "production_id": 1
+        },
+        {
+            "show_id": 349,
+            "title": "The Platform",
+            "release_year": 2019,
+            "genre_id": 12,
+            "duration": 94,
+            "production_id": 7
+        },
+        {
+            "show_id": 350,
+            "title": "Public Enemies",
+            "release_year": 2009,
+            "genre_id": 7,
+            "duration": 143,
+            "production_id": 2
+        },
+        {
+            "show_id": 351,
+            "title": "Ip Man 4: The Finale",
+            "release_year": 2019,
+            "genre_id": 3,
+            "duration": 107,
+            "production_id": 26
+        },
+        {
+            "show_id": 352,
+            "title": "John Q",
+            "release_year": 2002,
+            "genre_id": 3,
+            "duration": 116,
+            "production_id": 2
+        },
+        {
+            "show_id": 353,
+            "title": "Fashion",
+            "release_year": 2008,
+            "genre_id": 11,
+            "duration": 167,
+            "production_id": 3
+        },
+        {
+            "show_id": 354,
+            "title": "Ma Rainey's Black Bottom",
+            "release_year": 2020,
+            "genre_id": 13,
+            "duration": 94,
+            "production_id": 2
+        },
+        {
+            "show_id": 355,
+            "title": "Any Given Sunday",
+            "release_year": 1999,
+            "genre_id": 3,
+            "duration": 162,
+            "production_id": 2
+        },
+        {
+            "show_id": 356,
+            "title": "The Long Riders",
+            "release_year": 1980,
+            "genre_id": 5,
+            "duration": 99,
+            "production_id": 2
+        },
+        {
+            "show_id": 357,
+            "title": "Get on Up",
+            "release_year": 2014,
+            "genre_id": 3,
+            "duration": 139,
+            "production_id": 2
+        },
+        {
+            "show_id": 358,
+            "title": "Fukrey",
+            "release_year": 2013,
+            "genre_id": 11,
+            "duration": 137,
+            "production_id": 3
+        },
+        {
+            "show_id": 359,
+            "title": "Chup Chup Ke",
+            "release_year": 2006,
+            "genre_id": 4,
+            "duration": 165,
+            "production_id": 3
+        },
+        {
+            "show_id": 360,
+            "title": "Then Came You",
+            "release_year": 2019,
+            "genre_id": 4,
+            "duration": 93,
+            "production_id": 2
+        },
+        {
+            "show_id": 361,
+            "title": "The Wolf's Call",
+            "release_year": 2019,
+            "genre_id": 8,
+            "duration": 115,
+            "production_id": 19
+        },
+        {
+            "show_id": 362,
+            "title": "Cloudy with a Chance of Meatballs",
+            "release_year": 2009,
+            "genre_id": 14,
+            "duration": 90,
+            "production_id": 2
+        },
+        {
+            "show_id": 363,
+            "title": "Our Souls at Night",
+            "release_year": 2017,
+            "genre_id": 3,
+            "duration": 101,
+            "production_id": 2
+        },
+        {
+            "show_id": 364,
+            "title": "Chandigarh Kare Aashiqui",
+            "release_year": 2021,
+            "genre_id": 7,
+            "duration": 117,
+            "production_id": 3
+        },
+        {
+            "show_id": 365,
+            "title": "Welcome",
+            "release_year": 2007,
+            "genre_id": 11,
+            "duration": 160,
+            "production_id": 3
+        },
+        {
+            "show_id": 366,
+            "title": "Everybody Knows",
+            "release_year": 2018,
+            "genre_id": 3,
+            "duration": 132,
+            "production_id": 25
+        },
+        {
+            "show_id": 367,
+            "title": "The Meyerowitz Stories (New and Selected)",
+            "release_year": 2017,
+            "genre_id": 3,
+            "duration": 112,
+            "production_id": 2
+        },
+        {
+            "show_id": 368,
+            "title": "I Don't Feel at Home in This World Anymore",
+            "release_year": 2017,
+            "genre_id": 3,
+            "duration": 93,
+            "production_id": 2
+        },
+        {
+            "show_id": 369,
+            "title": "The Highwaymen",
+            "release_year": 2019,
+            "genre_id": 8,
+            "duration": 132,
+            "production_id": 2
+        },
+        {
+            "show_id": 370,
+            "title": "Legend",
+            "release_year": 2015,
+            "genre_id": 8,
+            "duration": 132,
+            "production_id": 2
+        },
+        {
+            "show_id": 371,
+            "title": "AK vs AK",
+            "release_year": 2020,
+            "genre_id": 3,
+            "duration": 108,
+            "production_id": 3
+        },
+        {
+            "show_id": 372,
+            "title": "My Girl",
+            "release_year": 1991,
+            "genre_id": 4,
+            "duration": 103,
+            "production_id": 2
+        },
+        {
+            "show_id": 373,
+            "title": "Amanda Knox",
+            "release_year": 2016,
+            "genre_id": 7,
+            "duration": 92,
+            "production_id": 34
+        },
+        {
+            "show_id": 374,
+            "title": "2 States",
+            "release_year": 2014,
+            "genre_id": 4,
+            "duration": 149,
+            "production_id": 3
+        },
+        {
+            "show_id": 375,
+            "title": "The Power of the Dog",
+            "release_year": 2021,
+            "genre_id": 3,
+            "duration": 126,
+            "production_id": 14
+        },
+        {
+            "show_id": 376,
+            "title": "The Half of It",
+            "release_year": 2020,
+            "genre_id": 4,
+            "duration": 104,
+            "production_id": 2
+        },
+        {
+            "show_id": 377,
+            "title": "Outlaw King",
+            "release_year": 2018,
+            "genre_id": 3,
+            "duration": 121,
+            "production_id": 1
+        },
+        {
+            "show_id": 378,
+            "title": "Mary Kom",
+            "release_year": 2014,
+            "genre_id": 3,
+            "duration": 122,
+            "production_id": 3
+        },
+        {
+            "show_id": 379,
+            "title": "Suffragette",
+            "release_year": 2015,
+            "genre_id": 3,
+            "duration": 106,
+            "production_id": 19
+        },
+        {
+            "show_id": 380,
+            "title": "Legend of the Guardians: The Owls of Ga'Hoole",
+            "release_year": 2010,
+            "genre_id": 10,
+            "duration": 100,
+            "production_id": 2
+        },
+        {
+            "show_id": 381,
+            "title": "Christine",
+            "release_year": 2016,
+            "genre_id": 3,
+            "duration": 115,
+            "production_id": 2
+        },
+        {
+            "show_id": 382,
+            "title": "The Night Comes for Us",
+            "release_year": 2018,
+            "genre_id": 8,
+            "duration": 121,
+            "production_id": 35
+        },
+        {
+            "show_id": 383,
+            "title": "The Trip",
+            "release_year": 2021,
+            "genre_id": 4,
+            "duration": 113,
+            "production_id": 16
+        },
+        {
+            "show_id": 384,
+            "title": "The Dirt",
+            "release_year": 2019,
+            "genre_id": 3,
+            "duration": 108,
+            "production_id": 2
+        },
+        {
+            "show_id": 385,
+            "title": "Top Gun",
+            "release_year": 1986,
+            "genre_id": 3,
+            "duration": 110,
+            "production_id": 2
+        },
+        {
+            "show_id": 386,
+            "title": "Radhe Shyam",
+            "release_year": 2022,
+            "genre_id": 11,
+            "duration": 138,
+            "production_id": 3
+        },
+        {
+            "show_id": 387,
+            "title": "Sorry to Bother You",
+            "release_year": 2018,
+            "genre_id": 10,
+            "duration": 111,
+            "production_id": 2
+        }
+    ],
+    "Genres": [
+        {
+            "genre_id": 1,
+            "genre_name": "documentary"
+        },
+        {
+            "genre_id": 2,
+            "genre_name": "scifi"
+        },
+        {
+            "genre_id": 3,
+            "genre_name": "drama"
+        },
+        {
+            "genre_id": 4,
+            "genre_name": "comedy"
+        },
+        {
+            "genre_id": 5,
+            "genre_name": "western"
+        },
+        {
+            "genre_id": 6,
+            "genre_name": "action"
+        },
+        {
+            "genre_id": 7,
+            "genre_name": "crime"
+        },
+        {
+            "genre_id": 8,
+            "genre_name": "thriller"
+        },
+        {
+            "genre_id": 9,
+            "genre_name": "war"
+        },
+        {
+            "genre_id": 10,
+            "genre_name": "fantasy"
+        },
+        {
+            "genre_id": 11,
+            "genre_name": "romance"
+        },
+        {
+            "genre_id": 12,
+            "genre_name": "horror"
+        },
+        {
+            "genre_id": 13,
+            "genre_name": "musical"
+        },
+        {
+            "genre_id": 14,
+            "genre_name": "animation"
+        },
+        {
+            "genre_id": 15,
+            "genre_name": "sports"
+        }
+    ],
+    "Production": [
+        {
+            "production_id": 1,
+            "production_name": "GB"
+        },
+        {
+            "production_id": 2,
+            "production_name": "US"
+        },
+        {
+            "production_id": 3,
+            "production_name": "IN"
+        },
+        {
+            "production_id": 4,
+            "production_name": "UA"
+        },
+        {
+            "production_id": 5,
+            "production_name": "CD"
+        },
+        {
+            "production_id": 6,
+            "production_name": "TR"
+        },
+        {
+            "production_id": 7,
+            "production_name": "ES"
+        },
+        {
+            "production_id": 8,
+            "production_name": "AU"
+        },
+        {
+            "production_id": 9,
+            "production_name": "JP"
+        },
+        {
+            "production_id": 10,
+            "production_name": "ZA"
+        },
+        {
+            "production_id": 11,
+            "production_name": "HK"
+        },
+        {
+            "production_id": 12,
+            "production_name": "DE"
+        },
+        {
+            "production_id": 13,
+            "production_name": "KR"
+        },
+        {
+            "production_id": 14,
+            "production_name": "CA"
+        },
+        {
+            "production_id": 15,
+            "production_name": "BE"
+        },
+        {
+            "production_id": 16,
+            "production_name": "NO"
+        },
+        {
+            "production_id": 17,
+            "production_name": "NZ"
+        },
+        {
+            "production_id": 18,
+            "production_name": "MX"
+        },
+        {
+            "production_id": 19,
+            "production_name": "FR"
+        },
+        {
+            "production_id": 20,
+            "production_name": "MW"
+        },
+        {
+            "production_id": 21,
+            "production_name": "TH"
+        },
+        {
+            "production_id": 22,
+            "production_name": "AR"
+        },
+        {
+            "production_id": 23,
+            "production_name": "PS"
+        },
+        {
+            "production_id": 24,
+            "production_name": "HU"
+        },
+        {
+            "production_id": 25,
+            "production_name": "IT"
+        },
+        {
+            "production_id": 26,
+            "production_name": "CN"
+        },
+        {
+            "production_id": 27,
+            "production_name": "PL"
+        },
+        {
+            "production_id": 28,
+            "production_name": "KH"
+        },
+        {
+            "production_id": 29,
+            "production_name": "IE"
+        },
+        {
+            "production_id": 30,
+            "production_name": "BR"
+        },
+        {
+            "production_id": 31,
+            "production_name": "XX"
+        },
+        {
+            "production_id": 32,
+            "production_name": "LT"
+        },
+        {
+            "production_id": 33,
+            "production_name": "NL"
+        },
+        {
+            "production_id": 34,
+            "production_name": "DK"
+        },
+        {
+            "production_id": 35,
+            "production_name": "ID"
+        }
+    ],
+    "ShowScoreDate": [
+        {
+            "show_id": 1,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 31180,
+            "score": "9"
+        },
+        {
+            "show_id": 2,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 2268288,
+            "score": "8.8"
+        },
+        {
+            "show_id": 3,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 1994599,
+            "score": "8.8"
+        },
+        {
+            "show_id": 4,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 20595,
+            "score": "8.7"
+        },
+        {
+            "show_id": 5,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 44074,
+            "score": "8.7"
+        },
+        {
+            "show_id": 6,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 1346020,
+            "score": "8.6"
+        },
+        {
+            "show_id": 7,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 1472668,
+            "score": "8.4"
+        },
+        {
+            "show_id": 8,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 180247,
+            "score": "8.4"
+        },
+        {
+            "show_id": 9,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 14356,
+            "score": "8.4"
+        },
+        {
+            "show_id": 10,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 11973,
+            "score": "8.4"
+        },
+        {
+            "show_id": 11,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 25687,
+            "score": "8.4"
+        },
+        {
+            "show_id": 12,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 385782,
+            "score": "8.4"
+        },
+        {
+            "show_id": 13,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 20611,
+            "score": "8.4"
+        },
+        {
+            "show_id": 14,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 13680,
+            "score": "8.4"
+        },
+        {
+            "show_id": 15,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 17710,
+            "score": "8.3"
+        },
+        {
+            "show_id": 16,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 342335,
+            "score": "8.3"
+        },
+        {
+            "show_id": 17,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 795222,
+            "score": "8.3"
+        },
+        {
+            "show_id": 18,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 188234,
+            "score": "8.3"
+        },
+        {
+            "show_id": 19,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 11488,
+            "score": "8.3"
+        },
+        {
+            "show_id": 20,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 723306,
+            "score": "8.3"
+        },
+        {
+            "show_id": 21,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 463276,
+            "score": "8.2"
+        },
+        {
+            "show_id": 22,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 79075,
+            "score": "8.2"
+        },
+        {
+            "show_id": 23,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 64805,
+            "score": "8.2"
+        },
+        {
+            "show_id": 24,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 35888,
+            "score": "8.2"
+        },
+        {
+            "show_id": 25,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 24845,
+            "score": "8.2"
+        },
+        {
+            "show_id": 26,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 11403,
+            "score": "8.2"
+        },
+        {
+            "show_id": 27,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 178012,
+            "score": "8.2"
+        },
+        {
+            "show_id": 28,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 91560,
+            "score": "8.2"
+        },
+        {
+            "show_id": 29,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 530877,
+            "score": "8.2"
+        },
+        {
+            "show_id": 30,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 32336,
+            "score": "8.2"
+        },
+        {
+            "show_id": 31,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 46939,
+            "score": "8.2"
+        },
+        {
+            "show_id": 32,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 34914,
+            "score": "8.2"
+        },
+        {
+            "show_id": 33,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 88359,
+            "score": "8.2"
+        },
+        {
+            "show_id": 34,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 10649,
+            "score": "8.1"
+        },
+        {
+            "show_id": 35,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 44556,
+            "score": "8.1"
+        },
+        {
+            "show_id": 36,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 719717,
+            "score": "8.1"
+        },
+        {
+            "show_id": 37,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 141480,
+            "score": "8.1"
+        },
+        {
+            "show_id": 38,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 89085,
+            "score": "8.1"
+        },
+        {
+            "show_id": 39,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 24681,
+            "score": "8.1"
+        },
+        {
+            "show_id": 40,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 118092,
+            "score": "8.1"
+        },
+        {
+            "show_id": 41,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 29604,
+            "score": "8.1"
+        },
+        {
+            "show_id": 42,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 465254,
+            "score": "8.1"
+        },
+        {
+            "show_id": 43,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 12035,
+            "score": "8.1"
+        },
+        {
+            "show_id": 44,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 80643,
+            "score": "8.1"
+        },
+        {
+            "show_id": 45,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 54001,
+            "score": "8.1"
+        },
+        {
+            "show_id": 46,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 75801,
+            "score": "8.1"
+        },
+        {
+            "show_id": 47,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 75132,
+            "score": "8.1"
+        },
+        {
+            "show_id": 48,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 57449,
+            "score": "8.1"
+        },
+        {
+            "show_id": 49,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 34659,
+            "score": "8.1"
+        },
+        {
+            "show_id": 50,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 611379,
+            "score": "8.1"
+        },
+        {
+            "show_id": 51,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 111053,
+            "score": "8.1"
+        },
+        {
+            "show_id": 52,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 51232,
+            "score": "8.1"
+        },
+        {
+            "show_id": 53,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 71167,
+            "score": "8.1"
+        },
+        {
+            "show_id": 54,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 32573,
+            "score": "8.1"
+        },
+        {
+            "show_id": 55,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 16225,
+            "score": "8.1"
+        },
+        {
+            "show_id": 56,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 392790,
+            "score": "8.1"
+        },
+        {
+            "show_id": 57,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 391942,
+            "score": "8.1"
+        },
+        {
+            "show_id": 58,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 12512,
+            "score": "8.1"
+        },
+        {
+            "show_id": 59,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 13140,
+            "score": "8"
+        },
+        {
+            "show_id": 60,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 61797,
+            "score": "8"
+        },
+        {
+            "show_id": 61,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 536858,
+            "score": "8"
+        },
+        {
+            "show_id": 62,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 36291,
+            "score": "8"
+        },
+        {
+            "show_id": 63,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 221095,
+            "score": "8"
+        },
+        {
+            "show_id": 64,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 586679,
+            "score": "8"
+        },
+        {
+            "show_id": 65,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 627009,
+            "score": "8"
+        },
+        {
+            "show_id": 66,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 644336,
+            "score": "8"
+        },
+        {
+            "show_id": 67,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 55489,
+            "score": "8"
+        },
+        {
+            "show_id": 68,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 51938,
+            "score": "8"
+        },
+        {
+            "show_id": 69,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 117333,
+            "score": "8"
+        },
+        {
+            "show_id": 70,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 11330,
+            "score": "8"
+        },
+        {
+            "show_id": 71,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 435503,
+            "score": "8"
+        },
+        {
+            "show_id": 72,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 15889,
+            "score": "8"
+        },
+        {
+            "show_id": 73,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 392419,
+            "score": "8"
+        },
+        {
+            "show_id": 74,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 170351,
+            "score": "8"
+        },
+        {
+            "show_id": 75,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 24903,
+            "score": "8"
+        },
+        {
+            "show_id": 76,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 539864,
+            "score": "8"
+        },
+        {
+            "show_id": 77,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 748654,
+            "score": "8"
+        },
+        {
+            "show_id": 78,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 51945,
+            "score": "7.9"
+        },
+        {
+            "show_id": 79,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 13308,
+            "score": "7.9"
+        },
+        {
+            "show_id": 80,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 15186,
+            "score": "7.9"
+        },
+        {
+            "show_id": 81,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 30389,
+            "score": "7.9"
+        },
+        {
+            "show_id": 82,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 290643,
+            "score": "7.9"
+        },
+        {
+            "show_id": 83,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 48672,
+            "score": "7.9"
+        },
+        {
+            "show_id": 84,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 21632,
+            "score": "7.9"
+        },
+        {
+            "show_id": 85,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 18523,
+            "score": "7.9"
+        },
+        {
+            "show_id": 86,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 24046,
+            "score": "7.9"
+        },
+        {
+            "show_id": 87,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 68028,
+            "score": "7.9"
+        },
+        {
+            "show_id": 88,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 25269,
+            "score": "7.9"
+        },
+        {
+            "show_id": 89,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 10903,
+            "score": "7.9"
+        },
+        {
+            "show_id": 90,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 327565,
+            "score": "7.8"
+        },
+        {
+            "show_id": 91,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 371209,
+            "score": "7.8"
+        },
+        {
+            "show_id": 92,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 17029,
+            "score": "7.8"
+        },
+        {
+            "show_id": 93,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 454917,
+            "score": "7.8"
+        },
+        {
+            "show_id": 94,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 23076,
+            "score": "7.8"
+        },
+        {
+            "show_id": 95,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 681286,
+            "score": "7.8"
+        },
+        {
+            "show_id": 96,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 619645,
+            "score": "7.8"
+        },
+        {
+            "show_id": 97,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 36512,
+            "score": "7.8"
+        },
+        {
+            "show_id": 98,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 314049,
+            "score": "7.8"
+        },
+        {
+            "show_id": 99,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 10742,
+            "score": "7.8"
+        },
+        {
+            "show_id": 100,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 570138,
+            "score": "7.8"
+        },
+        {
+            "show_id": 101,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 125720,
+            "score": "7.8"
+        },
+        {
+            "show_id": 102,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 429097,
+            "score": "7.8"
+        },
+        {
+            "show_id": 103,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 298168,
+            "score": "7.8"
+        },
+        {
+            "show_id": 104,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 21882,
+            "score": "7.8"
+        },
+        {
+            "show_id": 105,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 22858,
+            "score": "7.8"
+        },
+        {
+            "show_id": 106,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 523686,
+            "score": "7.8"
+        },
+        {
+            "show_id": 107,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 29819,
+            "score": "7.8"
+        },
+        {
+            "show_id": 108,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 94121,
+            "score": "7.8"
+        },
+        {
+            "show_id": 109,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 12699,
+            "score": "7.8"
+        },
+        {
+            "show_id": 110,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 19708,
+            "score": "7.8"
+        },
+        {
+            "show_id": 111,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 137549,
+            "score": "7.8"
+        },
+        {
+            "show_id": 112,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 27130,
+            "score": "7.8"
+        },
+        {
+            "show_id": 113,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 24319,
+            "score": "7.7"
+        },
+        {
+            "show_id": 114,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 80129,
+            "score": "7.7"
+        },
+        {
+            "show_id": 115,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 111189,
+            "score": "7.7"
+        },
+        {
+            "show_id": 116,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 153508,
+            "score": "7.7"
+        },
+        {
+            "show_id": 117,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 25792,
+            "score": "7.7"
+        },
+        {
+            "show_id": 118,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 12395,
+            "score": "7.7"
+        },
+        {
+            "show_id": 119,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 240408,
+            "score": "7.7"
+        },
+        {
+            "show_id": 120,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 17411,
+            "score": "7.7"
+        },
+        {
+            "show_id": 121,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 153463,
+            "score": "7.7"
+        },
+        {
+            "show_id": 122,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 25593,
+            "score": "7.7"
+        },
+        {
+            "show_id": 123,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 10257,
+            "score": "7.7"
+        },
+        {
+            "show_id": 124,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 697481,
+            "score": "7.7"
+        },
+        {
+            "show_id": 125,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 52227,
+            "score": "7.7"
+        },
+        {
+            "show_id": 126,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 600392,
+            "score": "7.7"
+        },
+        {
+            "show_id": 127,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 23541,
+            "score": "7.7"
+        },
+        {
+            "show_id": 128,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 263212,
+            "score": "7.7"
+        },
+        {
+            "show_id": 129,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 170728,
+            "score": "7.7"
+        },
+        {
+            "show_id": 130,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 212913,
+            "score": "7.7"
+        },
+        {
+            "show_id": 131,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 21963,
+            "score": "7.7"
+        },
+        {
+            "show_id": 132,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 23297,
+            "score": "7.7"
+        },
+        {
+            "show_id": 133,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 21204,
+            "score": "7.7"
+        },
+        {
+            "show_id": 134,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 413541,
+            "score": "7.7"
+        },
+        {
+            "show_id": 135,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 300073,
+            "score": "7.7"
+        },
+        {
+            "show_id": 136,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 323939,
+            "score": "7.6"
+        },
+        {
+            "show_id": 137,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 620154,
+            "score": "7.6"
+        },
+        {
+            "show_id": 138,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 269043,
+            "score": "7.6"
+        },
+        {
+            "show_id": 139,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 51640,
+            "score": "7.6"
+        },
+        {
+            "show_id": 140,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 23771,
+            "score": "7.6"
+        },
+        {
+            "show_id": 141,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 14590,
+            "score": "7.6"
+        },
+        {
+            "show_id": 142,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 13703,
+            "score": "7.6"
+        },
+        {
+            "show_id": 143,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 19646,
+            "score": "7.6"
+        },
+        {
+            "show_id": 144,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 29578,
+            "score": "7.6"
+        },
+        {
+            "show_id": 145,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 36805,
+            "score": "7.6"
+        },
+        {
+            "show_id": 146,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 18224,
+            "score": "7.6"
+        },
+        {
+            "show_id": 147,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 120871,
+            "score": "7.6"
+        },
+        {
+            "show_id": 148,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 79674,
+            "score": "7.6"
+        },
+        {
+            "show_id": 149,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 20430,
+            "score": "7.6"
+        },
+        {
+            "show_id": 150,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 100787,
+            "score": "7.6"
+        },
+        {
+            "show_id": 151,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 10210,
+            "score": "7.6"
+        },
+        {
+            "show_id": 152,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 14215,
+            "score": "7.6"
+        },
+        {
+            "show_id": 153,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 14037,
+            "score": "7.6"
+        },
+        {
+            "show_id": 154,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 28370,
+            "score": "7.6"
+        },
+        {
+            "show_id": 155,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 10544,
+            "score": "7.6"
+        },
+        {
+            "show_id": 156,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 30277,
+            "score": "7.6"
+        },
+        {
+            "show_id": 157,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 474176,
+            "score": "7.6"
+        },
+        {
+            "show_id": 158,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 224900,
+            "score": "7.6"
+        },
+        {
+            "show_id": 159,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 30818,
+            "score": "7.6"
+        },
+        {
+            "show_id": 160,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 37528,
+            "score": "7.6"
+        },
+        {
+            "show_id": 161,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 32814,
+            "score": "7.6"
+        },
+        {
+            "show_id": 162,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 11241,
+            "score": "7.6"
+        },
+        {
+            "show_id": 163,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 149082,
+            "score": "7.6"
+        },
+        {
+            "show_id": 164,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 333378,
+            "score": "7.6"
+        },
+        {
+            "show_id": 165,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 11495,
+            "score": "7.5"
+        },
+        {
+            "show_id": 166,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 32188,
+            "score": "7.5"
+        },
+        {
+            "show_id": 167,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 491048,
+            "score": "7.5"
+        },
+        {
+            "show_id": 168,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 39620,
+            "score": "7.5"
+        },
+        {
+            "show_id": 169,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 23011,
+            "score": "7.5"
+        },
+        {
+            "show_id": 170,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 325132,
+            "score": "7.5"
+        },
+        {
+            "show_id": 171,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 12278,
+            "score": "7.5"
+        },
+        {
+            "show_id": 172,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 28409,
+            "score": "7.5"
+        },
+        {
+            "show_id": 173,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 14230,
+            "score": "7.5"
+        },
+        {
+            "show_id": 174,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 31531,
+            "score": "7.5"
+        },
+        {
+            "show_id": 175,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 96418,
+            "score": "7.5"
+        },
+        {
+            "show_id": 176,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 33714,
+            "score": "7.5"
+        },
+        {
+            "show_id": 177,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 264884,
+            "score": "7.5"
+        },
+        {
+            "show_id": 178,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 86614,
+            "score": "7.5"
+        },
+        {
+            "show_id": 179,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 27003,
+            "score": "7.5"
+        },
+        {
+            "show_id": 180,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 14839,
+            "score": "7.5"
+        },
+        {
+            "show_id": 181,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 361422,
+            "score": "7.5"
+        },
+        {
+            "show_id": 182,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 19556,
+            "score": "7.5"
+        },
+        {
+            "show_id": 183,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 17716,
+            "score": "7.5"
+        },
+        {
+            "show_id": 184,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 50150,
+            "score": "7.5"
+        },
+        {
+            "show_id": 185,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 55044,
+            "score": "7.5"
+        },
+        {
+            "show_id": 186,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 42373,
+            "score": "7.5"
+        },
+        {
+            "show_id": 187,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 103673,
+            "score": "7.5"
+        },
+        {
+            "show_id": 188,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 93314,
+            "score": "7.5"
+        },
+        {
+            "show_id": 189,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 57399,
+            "score": "7.5"
+        },
+        {
+            "show_id": 190,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 20986,
+            "score": "7.5"
+        },
+        {
+            "show_id": 191,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 255099,
+            "score": "7.5"
+        },
+        {
+            "show_id": 192,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 154049,
+            "score": "7.4"
+        },
+        {
+            "show_id": 193,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 261956,
+            "score": "7.4"
+        },
+        {
+            "show_id": 194,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 446531,
+            "score": "7.4"
+        },
+        {
+            "show_id": 195,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 25793,
+            "score": "7.4"
+        },
+        {
+            "show_id": 196,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 29804,
+            "score": "7.4"
+        },
+        {
+            "show_id": 197,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 26790,
+            "score": "7.4"
+        },
+        {
+            "show_id": 198,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 47676,
+            "score": "7.4"
+        },
+        {
+            "show_id": 199,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 277165,
+            "score": "7.4"
+        },
+        {
+            "show_id": 200,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 165817,
+            "score": "7.4"
+        },
+        {
+            "show_id": 201,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 14380,
+            "score": "7.4"
+        },
+        {
+            "show_id": 202,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 17494,
+            "score": "7.4"
+        },
+        {
+            "show_id": 203,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 26738,
+            "score": "7.4"
+        },
+        {
+            "show_id": 204,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 12265,
+            "score": "7.4"
+        },
+        {
+            "show_id": 205,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 13446,
+            "score": "7.4"
+        },
+        {
+            "show_id": 206,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 193208,
+            "score": "7.4"
+        },
+        {
+            "show_id": 207,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 242733,
+            "score": "7.4"
+        },
+        {
+            "show_id": 208,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 21415,
+            "score": "7.4"
+        },
+        {
+            "show_id": 209,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 19151,
+            "score": "7.4"
+        },
+        {
+            "show_id": 210,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 30235,
+            "score": "7.4"
+        },
+        {
+            "show_id": 211,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 230543,
+            "score": "7.4"
+        },
+        {
+            "show_id": 212,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 23781,
+            "score": "7.4"
+        },
+        {
+            "show_id": 213,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 17141,
+            "score": "7.4"
+        },
+        {
+            "show_id": 214,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 11582,
+            "score": "7.4"
+        },
+        {
+            "show_id": 215,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 507878,
+            "score": "7.4"
+        },
+        {
+            "show_id": 216,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 21558,
+            "score": "7.4"
+        },
+        {
+            "show_id": 217,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 18466,
+            "score": "7.4"
+        },
+        {
+            "show_id": 218,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 28911,
+            "score": "7.4"
+        },
+        {
+            "show_id": 219,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 52657,
+            "score": "7.4"
+        },
+        {
+            "show_id": 220,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 10266,
+            "score": "7.4"
+        },
+        {
+            "show_id": 221,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 128600,
+            "score": "7.4"
+        },
+        {
+            "show_id": 222,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 566791,
+            "score": "7.4"
+        },
+        {
+            "show_id": 223,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 78039,
+            "score": "7.4"
+        },
+        {
+            "show_id": 224,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 11934,
+            "score": "7.4"
+        },
+        {
+            "show_id": 225,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 48818,
+            "score": "7.4"
+        },
+        {
+            "show_id": 226,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 17136,
+            "score": "7.4"
+        },
+        {
+            "show_id": 227,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 180532,
+            "score": "7.3"
+        },
+        {
+            "show_id": 228,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 41752,
+            "score": "7.3"
+        },
+        {
+            "show_id": 229,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 288960,
+            "score": "7.3"
+        },
+        {
+            "show_id": 230,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 44917,
+            "score": "7.3"
+        },
+        {
+            "show_id": 231,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 116305,
+            "score": "7.3"
+        },
+        {
+            "show_id": 232,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 10415,
+            "score": "7.3"
+        },
+        {
+            "show_id": 233,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 120488,
+            "score": "7.3"
+        },
+        {
+            "show_id": 234,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 14968,
+            "score": "7.3"
+        },
+        {
+            "show_id": 235,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 28196,
+            "score": "7.3"
+        },
+        {
+            "show_id": 236,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 265023,
+            "score": "7.3"
+        },
+        {
+            "show_id": 237,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 146847,
+            "score": "7.3"
+        },
+        {
+            "show_id": 238,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 216847,
+            "score": "7.3"
+        },
+        {
+            "show_id": 239,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 45200,
+            "score": "7.3"
+        },
+        {
+            "show_id": 240,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 143670,
+            "score": "7.3"
+        },
+        {
+            "show_id": 241,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 119020,
+            "score": "7.3"
+        },
+        {
+            "show_id": 242,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 240433,
+            "score": "7.3"
+        },
+        {
+            "show_id": 243,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 16441,
+            "score": "7.3"
+        },
+        {
+            "show_id": 244,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 16168,
+            "score": "7.3"
+        },
+        {
+            "show_id": 245,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 17570,
+            "score": "7.3"
+        },
+        {
+            "show_id": 246,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 57621,
+            "score": "7.3"
+        },
+        {
+            "show_id": 247,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 15032,
+            "score": "7.3"
+        },
+        {
+            "show_id": 248,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 260693,
+            "score": "7.3"
+        },
+        {
+            "show_id": 249,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 70542,
+            "score": "7.3"
+        },
+        {
+            "show_id": 250,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 141528,
+            "score": "7.3"
+        },
+        {
+            "show_id": 251,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 83961,
+            "score": "7.3"
+        },
+        {
+            "show_id": 252,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 149604,
+            "score": "7.3"
+        },
+        {
+            "show_id": 253,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 17033,
+            "score": "7.3"
+        },
+        {
+            "show_id": 254,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 12816,
+            "score": "7.3"
+        },
+        {
+            "show_id": 255,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 149218,
+            "score": "7.3"
+        },
+        {
+            "show_id": 256,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 11665,
+            "score": "7.2"
+        },
+        {
+            "show_id": 257,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 20675,
+            "score": "7.2"
+        },
+        {
+            "show_id": 258,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 24712,
+            "score": "7.2"
+        },
+        {
+            "show_id": 259,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 10320,
+            "score": "7.2"
+        },
+        {
+            "show_id": 260,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 44418,
+            "score": "7.2"
+        },
+        {
+            "show_id": 261,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 30949,
+            "score": "7.2"
+        },
+        {
+            "show_id": 262,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 59836,
+            "score": "7.2"
+        },
+        {
+            "show_id": 263,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 101939,
+            "score": "7.2"
+        },
+        {
+            "show_id": 264,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 41508,
+            "score": "7.2"
+        },
+        {
+            "show_id": 265,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 12095,
+            "score": "7.2"
+        },
+        {
+            "show_id": 266,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 57606,
+            "score": "7.2"
+        },
+        {
+            "show_id": 267,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 17871,
+            "score": "7.2"
+        },
+        {
+            "show_id": 268,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 498447,
+            "score": "7.2"
+        },
+        {
+            "show_id": 269,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 18681,
+            "score": "7.2"
+        },
+        {
+            "show_id": 270,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 24676,
+            "score": "7.2"
+        },
+        {
+            "show_id": 271,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 44715,
+            "score": "7.2"
+        },
+        {
+            "show_id": 272,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 166288,
+            "score": "7.2"
+        },
+        {
+            "show_id": 273,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 329417,
+            "score": "7.2"
+        },
+        {
+            "show_id": 274,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 114013,
+            "score": "7.2"
+        },
+        {
+            "show_id": 275,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 38308,
+            "score": "7.2"
+        },
+        {
+            "show_id": 276,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 215678,
+            "score": "7.2"
+        },
+        {
+            "show_id": 277,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 19023,
+            "score": "7.2"
+        },
+        {
+            "show_id": 278,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 26355,
+            "score": "7.2"
+        },
+        {
+            "show_id": 279,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 102103,
+            "score": "7.2"
+        },
+        {
+            "show_id": 280,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 59086,
+            "score": "7.2"
+        },
+        {
+            "show_id": 281,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 270231,
+            "score": "7.2"
+        },
+        {
+            "show_id": 282,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 61878,
+            "score": "7.2"
+        },
+        {
+            "show_id": 283,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 163878,
+            "score": "7.2"
+        },
+        {
+            "show_id": 284,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 14605,
+            "score": "7.2"
+        },
+        {
+            "show_id": 285,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 111092,
+            "score": "7.2"
+        },
+        {
+            "show_id": 286,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 22186,
+            "score": "7.1"
+        },
+        {
+            "show_id": 287,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 120208,
+            "score": "7.1"
+        },
+        {
+            "show_id": 288,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 17555,
+            "score": "7.1"
+        },
+        {
+            "show_id": 289,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 224896,
+            "score": "7.1"
+        },
+        {
+            "show_id": 290,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 26368,
+            "score": "7.1"
+        },
+        {
+            "show_id": 291,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 12418,
+            "score": "7.1"
+        },
+        {
+            "show_id": 292,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 29450,
+            "score": "7.1"
+        },
+        {
+            "show_id": 293,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 280121,
+            "score": "7.1"
+        },
+        {
+            "show_id": 294,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 39743,
+            "score": "7.1"
+        },
+        {
+            "show_id": 295,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 22838,
+            "score": "7.1"
+        },
+        {
+            "show_id": 296,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 13419,
+            "score": "7.1"
+        },
+        {
+            "show_id": 297,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 183638,
+            "score": "7.1"
+        },
+        {
+            "show_id": 298,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 14501,
+            "score": "7.1"
+        },
+        {
+            "show_id": 299,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 341888,
+            "score": "7.1"
+        },
+        {
+            "show_id": 300,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 125883,
+            "score": "7.1"
+        },
+        {
+            "show_id": 301,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 13135,
+            "score": "7.1"
+        },
+        {
+            "show_id": 302,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 123377,
+            "score": "7.1"
+        },
+        {
+            "show_id": 303,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 17433,
+            "score": "7.1"
+        },
+        {
+            "show_id": 304,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 141308,
+            "score": "7.1"
+        },
+        {
+            "show_id": 305,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 14046,
+            "score": "7.1"
+        },
+        {
+            "show_id": 306,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 152791,
+            "score": "7.1"
+        },
+        {
+            "show_id": 307,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 101175,
+            "score": "7.1"
+        },
+        {
+            "show_id": 308,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 58296,
+            "score": "7.1"
+        },
+        {
+            "show_id": 309,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 12831,
+            "score": "7.1"
+        },
+        {
+            "show_id": 310,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 11944,
+            "score": "7.1"
+        },
+        {
+            "show_id": 311,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 58190,
+            "score": "7.1"
+        },
+        {
+            "show_id": 312,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 10139,
+            "score": "7.1"
+        },
+        {
+            "show_id": 313,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 122321,
+            "score": "7.1"
+        },
+        {
+            "show_id": 314,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 31385,
+            "score": "7.1"
+        },
+        {
+            "show_id": 315,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 180805,
+            "score": "7.1"
+        },
+        {
+            "show_id": 316,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 101975,
+            "score": "7.1"
+        },
+        {
+            "show_id": 317,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 22505,
+            "score": "7.1"
+        },
+        {
+            "show_id": 318,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 208185,
+            "score": "7.1"
+        },
+        {
+            "show_id": 319,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 71915,
+            "score": "7.1"
+        },
+        {
+            "show_id": 320,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 267181,
+            "score": "7.1"
+        },
+        {
+            "show_id": 321,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 10206,
+            "score": "7.1"
+        },
+        {
+            "show_id": 322,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 21745,
+            "score": "7.1"
+        },
+        {
+            "show_id": 323,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 36836,
+            "score": "7.1"
+        },
+        {
+            "show_id": 324,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 52338,
+            "score": "7.1"
+        },
+        {
+            "show_id": 325,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 35142,
+            "score": "7"
+        },
+        {
+            "show_id": 326,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 44045,
+            "score": "7"
+        },
+        {
+            "show_id": 327,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 21382,
+            "score": "7"
+        },
+        {
+            "show_id": 328,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 47795,
+            "score": "7"
+        },
+        {
+            "show_id": 329,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 72460,
+            "score": "7"
+        },
+        {
+            "show_id": 330,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 34139,
+            "score": "7"
+        },
+        {
+            "show_id": 331,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 193053,
+            "score": "7"
+        },
+        {
+            "show_id": 332,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 25771,
+            "score": "7"
+        },
+        {
+            "show_id": 333,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 20019,
+            "score": "7"
+        },
+        {
+            "show_id": 334,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 10748,
+            "score": "7"
+        },
+        {
+            "show_id": 335,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 13708,
+            "score": "7"
+        },
+        {
+            "show_id": 336,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 17828,
+            "score": "7"
+        },
+        {
+            "show_id": 337,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 54128,
+            "score": "7"
+        },
+        {
+            "show_id": 338,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 112487,
+            "score": "7"
+        },
+        {
+            "show_id": 339,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 14983,
+            "score": "7"
+        },
+        {
+            "show_id": 340,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 12825,
+            "score": "7"
+        },
+        {
+            "show_id": 341,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 71182,
+            "score": "7"
+        },
+        {
+            "show_id": 342,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 18453,
+            "score": "7"
+        },
+        {
+            "show_id": 343,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 228799,
+            "score": "7"
+        },
+        {
+            "show_id": 344,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 17149,
+            "score": "7"
+        },
+        {
+            "show_id": 345,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 49101,
+            "score": "7"
+        },
+        {
+            "show_id": 346,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 217534,
+            "score": "7"
+        },
+        {
+            "show_id": 347,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 107701,
+            "score": "7"
+        },
+        {
+            "show_id": 348,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 42808,
+            "score": "7"
+        },
+        {
+            "show_id": 349,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 207877,
+            "score": "7"
+        },
+        {
+            "show_id": 350,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 297525,
+            "score": "7"
+        },
+        {
+            "show_id": 351,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 30694,
+            "score": "7"
+        },
+        {
+            "show_id": 352,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 131999,
+            "score": "7"
+        },
+        {
+            "show_id": 353,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 12468,
+            "score": "6.9"
+        },
+        {
+            "show_id": 354,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 50275,
+            "score": "6.9"
+        },
+        {
+            "show_id": 355,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 118479,
+            "score": "6.9"
+        },
+        {
+            "show_id": 356,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 11329,
+            "score": "6.9"
+        },
+        {
+            "show_id": 357,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 24456,
+            "score": "6.9"
+        },
+        {
+            "show_id": 358,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 11656,
+            "score": "6.9"
+        },
+        {
+            "show_id": 359,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 10528,
+            "score": "6.9"
+        },
+        {
+            "show_id": 360,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 12356,
+            "score": "6.9"
+        },
+        {
+            "show_id": 361,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 17236,
+            "score": "6.9"
+        },
+        {
+            "show_id": 362,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 226225,
+            "score": "6.9"
+        },
+        {
+            "show_id": 363,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 13360,
+            "score": "6.9"
+        },
+        {
+            "show_id": 364,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 12303,
+            "score": "6.9"
+        },
+        {
+            "show_id": 365,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 21799,
+            "score": "6.9"
+        },
+        {
+            "show_id": 366,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 34009,
+            "score": "6.9"
+        },
+        {
+            "show_id": 367,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 47971,
+            "score": "6.9"
+        },
+        {
+            "show_id": 368,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 55549,
+            "score": "6.9"
+        },
+        {
+            "show_id": 369,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 88714,
+            "score": "6.9"
+        },
+        {
+            "show_id": 370,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 175273,
+            "score": "6.9"
+        },
+        {
+            "show_id": 371,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 14048,
+            "score": "6.9"
+        },
+        {
+            "show_id": 372,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 79800,
+            "score": "6.9"
+        },
+        {
+            "show_id": 373,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 23969,
+            "score": "6.9"
+        },
+        {
+            "show_id": 374,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 25344,
+            "score": "6.9"
+        },
+        {
+            "show_id": 375,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 158487,
+            "score": "6.9"
+        },
+        {
+            "show_id": 376,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 34959,
+            "score": "6.9"
+        },
+        {
+            "show_id": 377,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 69834,
+            "score": "6.9"
+        },
+        {
+            "show_id": 378,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 10656,
+            "score": "6.9"
+        },
+        {
+            "show_id": 379,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 41529,
+            "score": "6.9"
+        },
+        {
+            "show_id": 380,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 82623,
+            "score": "6.9"
+        },
+        {
+            "show_id": 381,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 14977,
+            "score": "6.9"
+        },
+        {
+            "show_id": 382,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 25500,
+            "score": "6.9"
+        },
+        {
+            "show_id": 383,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 19706,
+            "score": "6.9"
+        },
+        {
+            "show_id": 384,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 47603,
+            "score": "6.9"
+        },
+        {
+            "show_id": 385,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 329656,
+            "score": "6.9"
+        },
+        {
+            "show_id": 386,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 21328,
+            "score": "6.9"
+        },
+        {
+            "show_id": 387,
+            "last_update": "2022-12-30 00:00:00",
+            "number_of_votes": 75653,
+            "score": "6.9"
+        }
+    ]
+}
